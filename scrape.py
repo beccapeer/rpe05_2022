@@ -5,20 +5,28 @@
 #import packages
 import pandas as pd
 import requests
-import urllib.request
 
-#test with one consent number
-consent = 'CRC165168' #groundwater
+#set empty dataframe for data collection
+w_df = pd.DataFrame()
 
-#load url
-url = 'https://data.ecan.govt.nz:443/data/154/Water/Water%20permit%20use/CSV?ConsentNo='+consent
-r = requests.get(url)
+#load consent numbers
+consents_df = pd.read_csv('./data/consent-numbers-ECan.csv')
+consents = consents_df["Number"]
 
-testdf = pd.read_csv(url)
+for i in consents:
+    url = 'https://data.ecan.govt.nz:443/data/154/Water/Water%20permit%20use/CSV?ConsentNo='+i
 
-#check response for errors
-#print(r.status_code) #200 = request success
+    #catch any errors
+    try:
+        r = requests.get(url)
+    except requests.exceptions.RequestException as e:  
+        raise SystemExit(e)
+    
+    #pull data
+    w_data = pd.read_csv(url)
+    
+    #store in dataframe
+    w_df = w_df.append(w_data)
 
-data = r.text
-
-gw_consents = pd.Dataframe()
+#save scraped data
+w_df.to_csv('./data/ECan_water_consent_data_raw.csv')
