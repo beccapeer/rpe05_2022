@@ -14,7 +14,11 @@ consent = 'CRC165168' #groundwater
 url = 'https://data.ecan.govt.nz:443/data/154/Water/Water%20permit%20use/CSV?ConsentNo='+consent
 r = requests.get(url)
 
+testdf = pd.read_csv(url)
+
 #check response for errors
 #print(r.status_code) #200 = request success
 
 data = r.text
+
+gw_consents = pd.Dataframe()
