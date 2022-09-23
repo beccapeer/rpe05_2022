@@ -1,0 +1,966 @@
+,RecordNo,ActivityType,WaterUse,IrrigationOf,PrimaryIrrigationType,IrrigatedAreaHa,MaxRateLs,VolumeM3,ConsecutiveDayPeriod
+0,CRC203050,Use Surface Water,Irrigation,Pasture,Spray,170.0,69.0,,
+0,CRC222773,Use Surface Water,Irrigation,Pasture,Spray,47.0,21.7,,
+0,CRC204020,Use Surface Water,Irrigation,Pasture,Spray,160.0,58.0,5011.0,1.0
+0,CRC202596,Use Groundwater,Irrigation,Pasture,Spray,272.0,170.0,,
+0,CRC201378,Use Surface Water,Irrigation,Pasture,Spray,55.0,5.0,432.0,1.0
+0,CRC210557,Use Groundwater,Irrigation,Pasture,Spray,70.0,35.0,3024.0,1.0
+0,CRC202106,Use Groundwater,Irrigation,Cropping,Spray,900.0,278.0,,
+0,CRC202954,Use Groundwater,Irrigation,Pasture,Spray,184.0,49.0,,
+0,CRC202953,Use Groundwater,Irrigation,Pasture,Spray,0.0,27.0,,
+0,CRC222984,Use Groundwater,Irrigation,Pasture,Spray,180.0,87.0,,
+0,CRC204676,Use Groundwater,Irrigation,Pasture,Spray,346.9,12.0,1036.8,1.0
+0,CRC202955,Use Groundwater,Irrigation,Pasture,Trickle,360.0,,,
+0,CRC221037,Use Groundwater,Irrigation,Pasture,Spray,60.0,,,
+0,CRC203490,Use Groundwater,Irrigation,Sports Field,Spray,10.0,5.5,25000.0,7.0
+0,CRC201637,Use Surface Water,Irrigation,Pasture,Spray,68.1,40.0,270400.0,365.0
+1,CRC201637,Use Surface Water,Domestic Use,,,,,12045.0,365.0
+0,CRC204837,Use Groundwater,Irrigation,Pasture,Spray,120.0,55.0,,
+0,CRC204834,Use Groundwater,Irrigation,Pasture,Spray,120.0,13.0,,
+0,CRC210185,Use Groundwater,Irrigation,Amenity,Spray,7.3,,,
+1,CRC210185,Use Groundwater,Domestic Use,,,,,,
+2,CRC210185,Use Groundwater,Public Water Supply,,,,,,
+0,CRC141422,Use Groundwater,Irrigation,Pasture,Spray,0.0,20.0,1728.0,1.0
+0,CRC202524,Use Groundwater,Irrigation,Pasture,Spray,238.0,150.0,1053579.0,150.0
+0,CRC210165,Use Groundwater,Irrigation,Pasture,Spray,432.0,213.8,18472.0,1.0
+0,CRC214367,Use Groundwater,Irrigation,Pasture,Spray,70.0,48.0,392040.0,150.0
+0,CRC222231,Use Groundwater,Irrigation,Pasture,Spray,15.0,7.0,605.0,1.0
+0,CRC222883,Use Surface Water,Irrigation,Pasture,Spray,140.0,82.0,7085.0,1.0
+0,CRC220380,Use Groundwater,Irrigation,Pasture,Spray,120.0,53.0,,
+0,CRC201840,Use Groundwater,Irrigation,Pasture,Trickle,1.0,207.0,17884.8,1.0
+0,CRC222328,Use Surface Water,Irrigation,Pasture,Spray - Gun,84.0,25.0,,
+0,CRC211968,Use Groundwater,Irrigation,Pasture,Spray,97.0,35.0,3024.0,1.0
+0,CRC210088,Use Groundwater,Irrigation,Pasture,Spray,80.0,25.0,2160.0,1.0
+0,CRC223129,Use Surface Water,Irrigation,Pasture,Spray,50.0,29.0,,
+0,CRC203381,Use Groundwater,Irrigation,Pasture,Spray,463.0,255.7,,
+0,CRC210670,Use Groundwater,Irrigation,Pasture,Spray,124.0,23.0,,
+0,CRC212637,Use Groundwater,Irrigation,Pasture,Spray,227.0,170.0,,
+0,CRC221236,Use Groundwater,Irrigation,Pasture,Spray,53.0,38.0,20520.0,10.0
+0,CRC136981,Use Groundwater,Irrigation,Pasture,Spray,200.0,132.9,77029.0,7.0
+0,CRC215250,Use Groundwater,Irrigation,Cropping,Spray,62.0,38.0,21888.0,8.0
+0,CRC215251,Use Groundwater,Irrigation,Cropping,Spray,17.8,22.0,7009.2,8.0
+0,CRC202028,Use Groundwater,Irrigation,Pasture,Spray,122.0,71.0,61340.0,10.0
+0,CRC225118,Use Groundwater,Irrigation,Pasture,Spray,170.0,162.2,,
+0,CRC201412,Use Groundwater,Irrigation,Pasture,Spray,23.3,13.0,1123.2,1.0
+0,CRC201224,Use Groundwater,Irrigation,Pasture,Spray,465.0,255.0,,
+0,CRC230798,Use Groundwater,Irrigation,Pasture,Spray,132.0,66.0,685714.0,150.0
+0,CRC203054,Use Groundwater,Irrigation,Pasture,Spray,0.0,,,
+1,CRC203054,Use Groundwater,Gravel Extraction/Processing,,,,,375533.0,365.0
+2,CRC203054,Use Groundwater,Potable Supply,,,,,,
+3,CRC203054,Use Groundwater,Irrigation,Dust suppression,Spray,0.0,,,
+0,CRC223137,Use Groundwater,Irrigation,Dust suppression,Spray - Gun,19.0,5.0,95.0,1.0
+0,CRC195375,Use Groundwater,Irrigation,Pasture,Spray,80.0,40.0,20563.0,7.0
+0,CRC222521,Use Groundwater,Irrigation,Market Garden,Spray,35.0,19.0,443.0,1.0
+0,CRC195522,Use Groundwater,Irrigation,Pasture,Spray,21.0,20.0,1728.0,1.0
+0,CRC212886,Use Groundwater,Irrigation,Pasture,Spray,57.3,35.0,32760.0,13.0
+0,CRC213549,Use Groundwater,Irrigation,Pasture,Spray,10.0,10.0,432.0,1.0
+0,CRC221608,Use Groundwater,Irrigation,Pasture,Spray,88.0,52.5,367168.0,365.0
+0,CRC202945,Use Groundwater,Irrigation,Pasture,Spray,162.0,98.0,749879.0,150.0
+0,CRC182846,Use Groundwater,Irrigation,Pasture,Spray,0.0,21.0,,
+1,CRC182846,Use Groundwater,Firefighting,,,,21.0,,
+0,CRC200136,Use Groundwater,Irrigation,Pasture,Spray,26.0,30.0,1429.0,1.0
+0,CRC201918,Use Groundwater,Irrigation,Pasture,Trickle,80.0,54.8,576720.0,150.0
+1,CRC201918,Use Groundwater,Potable Supply,,,,54.8,576720.0,150.0
+0,CRC203209,Use Groundwater,Irrigation,Pasture,Spray - Gun,8.14,10.0,4294.8,14.0
+0,CRC212947,Use Groundwater,Irrigation,Orchard - Nut,Spray,11.0,,,
+1,CRC212947,Use Groundwater,Domestic Use,,,,,,
+0,CRC201960,Use Surface Water,Irrigation,Lifestyle,Spray - Gun,4.0,8.7,262.0,1.0
+0,CRC211514,Use Groundwater,Irrigation,Cropping,Spray - Gun,39.8,30.0,120000.0,
+0,CRC212224,Use Groundwater,Irrigation,Pasture,Spray,141.0,,,
+0,CRC221492,Use Groundwater,Irrigation,Pasture,Spray,10.0,12.5,3261.0,9.0
+0,CRC221237,Use Groundwater,Irrigation,Pasture,Spray,16.4,40.7,118900.0,365.0
+0,CRC204672,Use Groundwater,Irrigation,Pasture,Spray - Gun,68.0,34.1,39528.0,14.0
+0,CRC166770,Use Surface Water,Irrigation,Pasture,Spray,1.0,,,
+0,CRC143522,Use Surface Water,Irrigation,Pasture,Spray,160.0,60.0,36288.0,7.0
+0,CRC200336,Use Groundwater,Irrigation,Pasture,Spray,97.0,45.0,,
+0,CRC991986.1,Use Surface Water,Irrigation,Pasture,Spray,411.0,170.0,102816.0,7.0
+0,CRC200179,Use Groundwater,Irrigation,Pasture,Spray - Gun,10.0,7.0,40070.0,365.0
+1,CRC200179,Use Groundwater,Stockwater,,,,7.0,19478.0,365.0
+2,CRC200179,Use Groundwater,Dairy Shed (Washdown/Cooling),,,,7.0,18250.0,365.0
+0,CRC211178,Use Groundwater,Irrigation,Pasture,Spray,69.0,40.0,3456.0,1.0
+0,CRC054382.1,Use Groundwater,Irrigation,Pasture,Spray,210.0,130.0,123552.0,12.0
+0,CRC201217,Use Groundwater,Irrigation,Pasture,Spray,340.0,160.0,108864.0,7.0
+0,CRC201724,Use Groundwater,Irrigation,Pasture,Spray,301.0,152.0,52531.0,4.0
+0,CRC214871,Use Groundwater,Irrigation,Pasture,Spray,210.0,,,
+0,CRC200216,Use Groundwater,Irrigation,Pasture,Spray,200.0,265.0,130088.0,7.0
+1,CRC200216,Use Surface Water,Irrigation,Pasture,Spray,200.0,30.0,786.0,1.0
+0,CRC223491,Use Groundwater,Irrigation,Pasture,Spray,0.0,45.0,,
+0,CRC203230,Use Groundwater,Irrigation,Pasture,Spray,182.0,26.5,314245.0,
+0,CRC195350,Use Groundwater,Irrigation,Cropping,Spray,164.8,83.0,7120.0,1.0
+0,CRC201001,Use Groundwater,Irrigation,Pasture,Spray,605.0,,,
+0,CRC224831,Use Groundwater,Irrigation,Pasture,Spray,47.0,30.0,7200.0,7.0
+0,CRC223335,Use Groundwater,Irrigation,Pasture,Spray,370.0,4.9,87065.0,7.0
+0,CRC203679,Use Groundwater,Irrigation,Cropping,Spray - Gun,170.0,135.0,9418.0,1.0
+0,CRC221075,Use Groundwater,Irrigation,Pasture,Spray,170.0,160.0,,
+0,CRC220367,Use Groundwater,Irrigation,Pasture,Spray,437.0,199.0,120000.0,7.0
+0,CRC195463,Use Groundwater,Irrigation,Pasture,Spray,158.6,,,
+1,CRC195463,Use Groundwater,Domestic Use,,,,,,
+2,CRC195463,Use Groundwater,Stockwater,,,,,,
+0,CRC201404,Use Groundwater,Irrigation,Pasture,Spray,156.0,103.0,,
+0,CRC203099,Use Groundwater,Irrigation,Pasture,Spray,14.0,10.0,,
+0,CRC230078,Use Groundwater,Irrigation,Pasture,Border (Strip/Dyke),410.0,143.0,,
+0,CRC222481,Use Groundwater,Irrigation,Pasture,Spray,193.0,105.0,62378.0,7.0
+1,CRC222481,Use Groundwater,Domestic Use,,,,,,
+2,CRC222481,Use Groundwater,Dairy Shed (Washdown/Cooling),,,,,,
+3,CRC222481,Use Groundwater,Stockwater,,,,,,
+0,CRC223959,Use Groundwater,Irrigation,Pasture,Spray,372.0,182.0,97978.0,7.0
+0,CRC222589,Use Groundwater,Irrigation,Pasture,Spray,120.0,64.0,38707.0,7.0
+0,CRC223669,Use Groundwater,Irrigation,Pasture,Spray,12.0,7.6,6566.0,14.0
+0,CRC230675,Use Groundwater,Irrigation,Pasture,Spray,254.0,62.0,5357.0,1.0
+0,CRC220162,Use Groundwater,Irrigation,Pasture,Spray,156.0,77.0,93139.0,14.0
+0,CRC231043,Use Groundwater,Irrigation,Pasture,Spray,68.9,31.0,,
+0,CRC221077,Use Groundwater,Irrigation,Pasture,Spray,11.0,8.0,375.0,1.0
+0,CRC220287,Use Groundwater,Irrigation,Pasture,Spray,160.0,93.0,7700.0,1.0
+0,CRC222753,Use Groundwater,Irrigation,Pasture,Spray,80.0,67.5,,1.0
+0,CRC222754,Use Groundwater,Irrigation,Pasture,Spray,180.0,40.0,3456.0,1.0
+0,CRC202171,Use Groundwater,Irrigation,Pasture,Spray,145.0,108.0,30240.0,7.0
+0,CRC201553,Use Groundwater,Irrigation,Pasture,Spray,154.0,66.0,65578.0,12.0
+0,CRC203119,Use Groundwater,Irrigation,Cropping,Spray,296.0,144.0,12441.6,1.0
+0,CRC204263,Use Groundwater,Irrigation,Cropping,Spray,50.5,34.1,2946.0,1.0
+0,CRC211681,Use Groundwater,Irrigation,Pasture,Spray,110.0,64.0,5529.6,1.0
+0,CRC220811,Use Groundwater,Irrigation,Pasture,Spray,304.0,95.0,8208.0,1.0
+0,CRC223125,Use Groundwater,Irrigation,Pasture,Spray,228.5,90.0,74520.0,10.0
+0,CRC213366,Use Groundwater,Irrigation,Pasture,Spray,155.0,82.0,13306.0,7.0
+0,CRC182948,Use Groundwater,Irrigation,Pasture,Spray,122.0,75.0,6480.0,1.0
+0,CRC221455,Use Groundwater,Irrigation,Pasture,Spray - Gun,513.0,354.5,29130.0,1.0
+0,CRC202040,Use Groundwater,Irrigation,Pasture,Spray,33.0,30.0,13860.0,7.0
+0,CRC202091,Use Groundwater,Irrigation,Pasture,Spray,120.0,60.0,,
+0,CRC221322,Use Groundwater,Irrigation,Cropping,Spray - Gun,202.0,,72576.0,7.0
+0,CRC225137,Use Groundwater,Irrigation,Pasture,Spray,26.0,60.0,4320.0,1.0
+0,CRC221293,Use Groundwater,Irrigation,Pasture,Spray,58.0,45.0,23328.0,28.0
+0,CRC221826,Use Groundwater,Irrigation,Pasture,Spray,66.0,46.0,18144.0,7.0
+0,CRC200372,Use Groundwater,Irrigation,Golf Course,Spray,6.0,10.5,354.0,1.0
+0,CRC144717,Use Groundwater,Irrigation,Pasture,Spray,220.0,95.0,,
+0,CRC230569,Use Surface Water,Irrigation,Pasture,Spray,100.0,300.0,,
+0,CRC221942,Use Groundwater,Irrigation,Pasture,Spray,140.0,48.4,29250.0,7.0
+0,CRC221945,Use Groundwater,Irrigation,Pasture,Spray - Gun,140.0,15.3,9250.0,7.0
+0,CRC204935,Use Surface Water,Irrigation,Pasture,Spray,221.0,91.4,110500.0,14.0
+0,CRC222129,Use Groundwater,Irrigation,,Spray,0.0,30.0,2592.0,1.0
+0,CRC136691,Use Groundwater,Irrigation,Pasture,Spray,488.0,40.0,3168.0,1.0
+0,CRC155131,Use Surface Water,Irrigation,Pasture,Spray,70.0,20.0,41472.0,24.0
+0,CRC230614,Use Groundwater,Irrigation,Pasture,Spray,139.0,30.0,2592.0,1.0
+0,CRC222132,Use Groundwater,Irrigation,Pasture,Spray,265.0,35.0,469152.0,
+0,CRC231358,Use Groundwater,Irrigation,Pasture,Spray,115.0,53.0,45792.0,10.0
+0,CRC210899,Use Groundwater,Irrigation,Pasture,Spray,180.0,74.0,5860.0,1.0
+0,CRC222393,Use Groundwater,Irrigation,Pasture,Spray,40.0,26.0,11232.0,5.0
+0,CRC223223,Use Groundwater,Irrigation,Pasture,Spray,92.0,50.0,,
+0,CRC230076,Use Groundwater,Irrigation,Pasture,Spray,140.0,100.0,,
+0,CRC211504,Use Groundwater,Irrigation,Pasture,Spray,275.0,118.0,107490.0,11.0
+0,CRC161646,Use Groundwater,Irrigation,Pasture,Spray,290.0,100.0,,
+0,CRC205041,Use Groundwater,Irrigation,Pasture,Spray,61.0,35.0,2520.0,1.0
+0,CRC195265,Use Groundwater,Irrigation,Pasture,Spray,80.0,26.5,12784.0,7.0
+0,CRC200132,Use Surface Water,Irrigation,Pasture,Spray,510.0,225.0,,
+0,CRC224707,Use Surface Water,Irrigation,Pasture,Spray,29500.0,19000.0,,
+0,CRC224708,Use Surface Water,Irrigation,Pasture,Spray,26000.0,8000.0,,
+0,CRC225051,Use Surface Water,Irrigation,Pasture,Border (Strip/Dyke),25.0,34.0,14688.0,10.0
+0,CRC215268,Use Surface Water,Irrigation,Pasture,Border (Strip/Dyke),476.0,793.0,,
+0,CRC201973,Use Surface Water,Irrigation,Pasture,Spray,74.0,30.0,,
+0,CRC201984,Use Surface Water,Irrigation,Pasture,Border (Strip/Dyke),100.0,,,
+0,CRC202739,Use Surface Water,Irrigation,Pasture,Spray,80.0,28.0,,
+0,CRC210012,Use Surface Water,Irrigation,Pasture,Spray,210.0,100.0,8640.0,1.0
+0,CRC210011,Use Surface Water,Irrigation,Pasture,Spray,210.0,100.0,8640.0,1.0
+0,CRC210010,Use Surface Water,Irrigation,Pasture,Spray,210.0,100.0,8640.0,1.0
+0,CRC213908,Use Surface Water,Irrigation,Pasture,Spray,298.0,208.6,18023.0,1.0
+0,CRC201491,Use Surface Water,Irrigation,Pasture,Spray,120.0,14.0,8467.0,7.0
+0,CRC201484,Use Surface Water,Irrigation,Pasture,Spray,120.0,35.0,,
+0,CRC214878,Use Groundwater,Irrigation,Market Garden,Spray,10.0,4.5,130.0,1.0
+0,CRC220786,Use Surface Water,Irrigation,Pasture,Spray,127.0,0.0,76118.0,7.0
+0,CRC203692,Use Surface Water,Irrigation,Pasture,Spray,88.0,,,
+1,CRC203692,Use Surface Water,Irrigation,Cropping,Spray,88.0,,,
+0,CRC213761,Use Surface Water,Irrigation,Pasture,Spray,130.0,90.0,700000.0,365.0
+1,CRC213761,Use Surface Water,Stockwater,,,,9.0,50000.0,365.0
+0,CRC201165,Use Surface Water,Irrigation,Pasture,Spray - Gun,80.0,,,
+0,CRC203646,Use Surface Water,Irrigation,Pasture,Spray,3000.0,81.0,20995.0,3.0
+0,CRC203952,Use Surface Water,Irrigation,Pasture,Spray,12.0,110.0,2000.0,7.0
+0,CRC222391,Use Surface Water,Irrigation,Pasture,Spray,48.0,,,
+0,CRC062366,Use Surface Water,Irrigation,Pasture,Spray,0.0,62.0,,
+0,CRC141651,Use Surface Water,Irrigation,Pasture,Spray,0.0,42.68,,
+0,CRC180333,Use Surface Water,Irrigation,Pasture,Spray,0.0,42.0,,
+0,CRC176651,Use Surface Water,Irrigation,Pasture,Border (Strip/Dyke),494.0,377.0,228010.0,7.0
+0,CRC204341,Use Surface Water,Irrigation,Pasture,Spray,115.0,30.0,,
+0,CRC204342,Use Surface Water,Irrigation,Pasture,Spray,115.0,27.0,,
+0,CRC222276,Use Groundwater,Irrigation,Pasture,Flood,73.0,31.4,34272.0,14.0
+0,CRC214327,Use Surface Water,Irrigation,Pasture,Border (Strip/Dyke),104.0,42.6,14776.0,7.0
+0,CRC214329,Use Surface Water,Irrigation,Pasture,Border (Strip/Dyke),104.0,42.6,10994.0,7.0
+0,CRC224247,Use Groundwater,Irrigation,Sports Field,Spray,7.0,19.1,1650.0,7.0
+0,CRC202786,Use Groundwater,Irrigation,Market Garden,Spray,48.5,10.0,5796.0,7.0
+0,CRC195043,Use Groundwater,Irrigation,Pasture,Spray,207.4,119.0,10269.0,1.0
+0,CRC230585,Use Groundwater,Irrigation,Pasture,Spray,21.0,38.0,587.0,1.0
+0,CRC221008,Use Groundwater,Irrigation,Pasture,Spray,10.0,5.0,,
+0,CRC222568,Use Groundwater,Irrigation,Pasture,Spray,30.0,,,
+0,CRC222570,Use Groundwater,Irrigation,Pasture,Spray,30.0,27.0,2500.0,14.0
+0,CRC230429,Use Groundwater,Irrigation,Pasture,Spray,0.0,20.4,1137.0,1.0
+0,CRC230427,Use Groundwater,Irrigation,Pasture,Spray,0.0,20.4,552.0,1.0
+0,CRC224119,Use Groundwater,Irrigation,Pasture,Spray,50.0,19.9,11933.0,7.0
+0,CRC230740,Use Groundwater,Irrigation,Pasture,Spray,44.5,32.0,11125.0,7.0
+0,CRC222572,Use Groundwater,Irrigation,Pasture,Spray,110.0,38.0,2599.0,1.0
+0,CRC222574,Use Groundwater,Irrigation,Pasture,Spray,110.0,16.5,1325.0,1.0
+0,CRC201992,Use Groundwater,Irrigation,Pasture,Spray - Gun,64.0,,,
+0,CRC222802,Use Groundwater,Irrigation,Pasture,Spray,64.0,36.3,,
+0,CRC231281,Use Groundwater,Irrigation,Pasture,Spray,74.0,,,
+0,CRC202611,Use Surface Water,Irrigation,Pasture,Spray,293.0,85.9,51960.0,7.0
+0,CRC181839,Use Surface Water,Irrigation,Pasture,Spray - Gun,620.0,36.3,,
+0,CRC203793,Use Surface Water,Irrigation,Pasture,Spray - Gun,88.0,36.3,3136.0,1.0
+0,CRC221768,Use Surface Water,Irrigation,Pasture,Spray,92.0,37.7,,
+0,CRC230595,Use Surface Water,Irrigation,Pasture,Spray - Gun,65.0,,,
+0,CRC200692,Use Groundwater,Irrigation,Pasture,Spray,110.0,25.0,241828.0,150.0
+1,CRC200692,Use Groundwater,Domestic Use,,,,,,
+2,CRC200692,Use Groundwater,Dairy Shed (Washdown/Cooling),,,,,,
+3,CRC200692,Use Groundwater,Stockwater,,,,,15621.0,365.0
+0,CRC201521,Use Groundwater,Irrigation,Pasture,Spray,100.0,25.0,,
+0,CRC203997,Use Groundwater,Irrigation,Pasture,Spray,30.0,,,
+0,CRC203947,Use Groundwater,Irrigation,Pasture,Spray,80.0,25.0,15120.0,7.0
+0,CRC204807,Use Groundwater,Irrigation,Pasture,Spray,28.6,105.0,,
+0,CRC211663,Use Surface Water,Irrigation,Pasture,Spray - Gun,82.52,40.0,3054.0,1.0
+0,CRC223058,Use Groundwater,Irrigation,Pasture,Spray,0.0,39.0,3370.0,1.0
+0,CRC152629,Use Groundwater,Irrigation,Pasture,Spray,180.0,169.0,8100.0,1.0
+0,CRC201519,Use Groundwater,Irrigation,Pasture,Spray,348.0,33.1,2860.0,1.0
+0,CRC122042,Use Groundwater,Irrigation,Pasture,Spray,300.0,90.0,,
+0,CRC136908,Use Groundwater,Irrigation,Pasture,Spray,142.0,34.0,10282.0,7.0
+1,CRC136908,Use Surface Water,Irrigation,Pasture,Spray,142.0,34.0,20564.0,7.0
+0,CRC220265,Use Groundwater,Irrigation,Pasture,Spray - Gun,121.5,58.0,28924.0,7.0
+0,CRC131068,Use Groundwater,Irrigation,Pasture,Spray,131.0,30.0,200000.0,365.0
+0,CRC222707,Use Groundwater,Irrigation,Pasture,Spray,39.0,16.5,19958.0,14.0
+0,CRC093178,Use Groundwater,Irrigation,Pasture,Spray,59.0,24.0,2074.0,1.0
+0,CRC222723,Use Groundwater,Irrigation,Pasture,Spray,476.6,141.0,12182.0,1.0
+0,CRC222274,Use Groundwater,Irrigation,Pasture,Spray,24.0,8.2,9564.48,13.5
+0,CRC194929,Use Groundwater,Irrigation,Pasture,Spray,170.0,65.0,39312.0,7.0
+0,CRC203218,Use Surface Water,Irrigation,Pasture,Spray,83.5,22.7,1961.0,1.0
+0,CRC222988,Use Groundwater,Irrigation,Pasture,Spray,110.0,,,
+0,CRC230073,Use Surface Water,Irrigation,Market Garden,Spray - Gun,120.0,60.0,66528.0,14.0
+0,CRC222986,Use Groundwater,Irrigation,Pasture,Spray,170.0,,,
+0,CRC220678,Use Surface Water,Irrigation,Pasture,Spray,40.0,102.0,48000.0,7.0
+0,CRC094151,Use Surface Water,Irrigation,Pasture,Spray,131.0,34.0,,
+0,CRC193421,Use Surface Water,Irrigation,Pasture,Spray,131.0,,,
+0,CRC213070,Use Groundwater,Irrigation,Pasture,Spray - Gun,180.0,80.0,6912.0,1.0
+0,CRC200635,Use Surface Water,Irrigation,Pasture,Spray,779.0,362.8,31345.92,1.0
+0,CRC120332,Use Groundwater,Irrigation,Pasture,Spray,15.0,5.3,,
+0,CRC221415,Use Groundwater,Irrigation,Pasture,Spray,14.5,5.3,,
+0,CRC140609,Use Surface Water,Irrigation,Pasture,Border (Strip/Dyke),50.0,537.0,95040.0,14.0
+0,CRC110406,Use Surface Water,Irrigation,Pasture,Spray,0.0,40.0,3456.0,1.0
+0,CRC230484,Use Surface Water,Irrigation,Pasture,Spray,70.0,35.0,,
+0,CRC200260,Use Groundwater,Irrigation,Pasture,Spray - Gun,37.0,32.0,1843.0,1.0
+0,CRC200227,Use Groundwater,Irrigation,Pasture,Spray,109.0,53.0,4200.0,1.0
+0,CRC200211,Use Groundwater,Irrigation,Pasture,Spray,57.0,28.0,14200.0,7.0
+0,CRC200208,Use Groundwater,Irrigation,Pasture,Spray - Gun,320.0,192.0,16589.0,1.0
+0,CRC200272,Use Groundwater,Irrigation,Pasture,Spray,110.0,45.5,27500.0,7.0
+0,CRC200214,Use Groundwater,Irrigation,Pasture,Spray - Gun,318.0,90.0,45360.0,7.0
+0,CRC200193,Use Groundwater,Irrigation,Pasture,Border (Strip/Dyke),552.0,38.0,,
+0,CRC231283,Use Groundwater,Irrigation,Pasture,Spray - Gun,90.0,39.0,43243.0,14.0
+0,CRC200195,Use Groundwater,Irrigation,Pasture,Spray,138.0,72.0,43547.0,7.0
+0,CRC201050,Use Groundwater,Irrigation,Pasture,Spray,20.0,10.0,6048.0,7.0
+0,CRC212248,Use Groundwater,Irrigation,Pasture,Spray,100.0,38.0,51163.0,17.0
+0,CRC223346,Use Groundwater,Irrigation,Pasture,Spray,60.0,26.0,2246.4,1.0
+0,CRC220400,Use Groundwater,Irrigation,Pasture,Spray,100.0,64.0,,
+0,CRC200222,Use Groundwater,Irrigation,Pasture,Spray,80.0,25.0,,
+0,CRC220817,Use Groundwater,Irrigation,Pasture,Spray,23.0,18.0,8467.0,7.0
+0,CRC223474,Use Groundwater,Irrigation,Pasture,Spray,220.0,80.0,6912.0,1.0
+0,CRC157761,Use Groundwater,Irrigation,Pasture,Spray,200.0,,,
+1,CRC157761,Use Groundwater,Stockwater,,,,,,
+0,CRC230453,Use Groundwater,Irrigation,Pasture,Spray,50.12,35.0,,
+0,CRC200201,Use Groundwater,Irrigation,Pasture,Spray - Gun,257.0,80.0,46368.0,7.0
+0,CRC054610.1,Use Groundwater,Irrigation,Pasture,Spray,220.0,86.0,74300.0,10.0
+0,CRC210669,Use Groundwater,Irrigation,Pasture,Spray,300.0,174.0,,
+0,CRC082614,Use Surface Water,Irrigation,Pasture,Spray,672.0,,,
+0,CRC200257,Use Surface Water,Irrigation,Pasture,Border (Strip/Dyke),125.0,23.0,2000.0,1.0
+0,CRC200269,Use Surface Water,Irrigation,Pasture,Border (Strip/Dyke),150.0,240.0,111750.0,21.0
+0,CRC200220,Use Surface Water,Irrigation,Pasture,Spray,180.0,45.5,48160.0,30.0
+0,CRC222780,Use Groundwater,Irrigation,Pasture,Spray,225.0,87.0,75168.0,10.0
+0,CRC200264,Use Surface Water,Irrigation,Pasture,Spray,144.0,12.0,7000.0,7.0
+0,CRC200242,Use Surface Water,Irrigation,Pasture,Border (Strip/Dyke),63.0,230.0,15750.0,7.0
+0,CRC200241,Use Surface Water,Irrigation,Pasture,Border (Strip/Dyke),114.0,230.0,28500.0,7.0
+0,CRC200187,Use Surface Water,Irrigation,Pasture,Spray - Gun,0.0,7100.0,,
+0,CRC200259,Use Surface Water,Irrigation,Pasture,Spray,22.0,30.0,5500.0,7.0
+0,CRC200210,Use Surface Water,Irrigation,Pasture,Spray,140.0,60.0,5184.0,1.0
+0,CRC200225,Use Surface Water,Irrigation,Pasture,Spray - Gun,0.0,100.0,,
+0,CRC230834,Use Surface Water,Irrigation,Pasture,Spray - Gun,0.0,100.0,,
+0,CRC200218,Use Surface Water,Irrigation,Pasture,Spray,186.0,200.0,,
+0,CRC200224,Use Surface Water,Irrigation,Pasture,Spray,0.0,200.0,,
+0,CRC200207,Use Groundwater,Irrigation,Market Garden,Border (Strip/Dyke),19.0,,,
+0,CRC052262,Use Groundwater,Irrigation,Pasture,Spray,380.0,93.0,96422.0,12.0
+0,CRC230757,Use Groundwater,Irrigation,Pasture,Spray,234.0,160.5,48572.0,4.0
+0,CRC200203,Use Groundwater,Irrigation,Pasture,Spray - Gun,80.0,12.5,6930.0,7.0
+0,CRC200246,Use Groundwater,Irrigation,Pasture,Spray - Gun,54.7,28.0,13675.0,7.0
+0,CRC200270,Use Groundwater,Irrigation,Pasture,Spray - Gun,20.0,12.0,864.0,1.0
+0,CRC200226,Use Groundwater,Irrigation,Pasture,Spray - Gun,19.0,20.0,7056.0,10.0
+0,CRC200243,Use Groundwater,Irrigation,Pasture,Spray - Gun,44.0,30.0,11000.0,7.0
+0,CRC215077,Use Groundwater,Irrigation,Pasture,Spray,160.0,50.0,31680.0,8.0
+0,CRC200196,Use Groundwater,Irrigation,Pasture,Spray - Gun,56.0,39.0,28080.0,10.0
+0,CRC223771,Use Groundwater,Irrigation,Pasture,Spray,152.0,92.0,,
+0,CRC222003,Use Groundwater,Irrigation,Pasture,Spray,144.0,73.1,37068.0,6.0
+1,CRC222003,Use Groundwater,Dairy Shed (Washdown/Cooling),,,,4.0,9125.0,365.0
+0,CRC212598,Use Groundwater,Irrigation,Pasture,Spray,138.0,88.0,,
+0,CRC221134,Use Groundwater,Irrigation,Pasture,Spray,128.0,76.0,137895.0,21.0
+0,CRC204189,Use Groundwater,Irrigation,Pasture,Spray,24.0,15.0,15120.0,14.0
+0,CRC222908,Use Groundwater,Irrigation,Pasture,Spray,71.0,46.0,26670.0,7.0
+0,CRC222909,Use Groundwater,Irrigation,Pasture,Spray,8.0,4.95,,
+0,CRC204954,Use Groundwater,Irrigation,Pasture,Spray,60.0,37.0,20513.0,7.0
+0,CRC230373,Use Groundwater,Irrigation,Pasture,Spray,80.0,38.0,3283.0,1.0
+0,CRC224003,Use Groundwater,Irrigation,Pasture,Spray,90.0,46.6,27009.0,7.0
+0,CRC220390,Use Groundwater,Irrigation,Pasture,Spray,20.0,,,
+0,CRC222122,Use Groundwater,Irrigation,Pasture,Spray,171.0,75.0,6210.0,1.0
+0,CRC222633,Use Groundwater,Irrigation,Pasture,Spray,214.0,107.0,65318.0,7.0
+0,CRC202232,Use Groundwater,Irrigation,Pasture,Spray,140.0,88.0,685112.0,
+0,CRC200846,Use Groundwater,Irrigation,Pasture,Spray,145.1,93.0,82863.0,11.0
+0,CRC200192,Use Groundwater,Irrigation,Pasture,Spray,80.0,48.0,,
+0,CRC224770,Use Groundwater,Irrigation,Pasture,Spray,180.0,4.0,1445.4,9.0
+0,CRC203744,Use Groundwater,Irrigation,Pasture,Spray - Gun,121.0,81.0,678528.0,365.0
+0,CRC203630,Use Groundwater,Irrigation,Pasture,Spray,33.31,35.0,11550.0,7.0
+0,CRC213429,Use Groundwater,Irrigation,Pasture,Spray,300.0,140.0,,
+0,CRC220392,Use Groundwater,Irrigation,Pasture,Spray,42.0,,,
+1,CRC220392,Use Groundwater,Irrigation,Cropping,Spray,0.0,,,
+0,CRC195241,Use Groundwater,Irrigation,Pasture,Spray,132.0,30.0,18144.0,7.0
+0,CRC203615,Use Groundwater,Irrigation,Pasture,Spray,5.0,5.0,1728.0,20.0
+0,CRC204648,Use Groundwater,Irrigation,Pasture,Spray,177.0,150.0,,
+0,CRC210786,Use Groundwater,Irrigation,Cropping,Spray,185.0,80.0,139104.0,21.0
+0,CRC201216,Use Groundwater,Irrigation,Pasture,Spray,293.0,155.0,160704.0,7.0
+0,CRC231293,Use Groundwater,Irrigation,,Spray,191.0,110.0,9504.0,1.0
+0,CRC230048,Use Groundwater,Irrigation,Pasture,Spray,58.0,,,
+0,CRC215290,Use Groundwater,Irrigation,Pasture,Spray - Gun,202.0,120.0,79488.0,8.0
+0,CRC171764,Use Groundwater,Irrigation,Pasture,Spray,49.0,,,
+0,CRC050473.1,Use Groundwater,Irrigation,Pasture,Spray,121.0,80.0,63360.0,10.0
+0,CRC202872,Use Groundwater,Irrigation,Pasture,Spray,25.0,15.0,7000.0,7.0
+0,CRC202815,Use Groundwater,Irrigation,Pasture,Spray,122.0,50.0,33120.0,8.0
+0,CRC202849,Use Groundwater,Irrigation,Cropping,Spray,227.5,117.0,1007400.0,365.0
+0,CRC134879,Use Groundwater,Irrigation,Pasture,Spray,134.0,60.0,5184.0,1.0
+0,CRC052214.1,Use Groundwater,Irrigation,Pasture,Spray,124.0,50.0,51840.0,12.0
+0,CRC204026,Use Groundwater,Irrigation,Pasture,Spray,124.0,66.9,80922.0,14.0
+0,CRC050406.1,Use Groundwater,Irrigation,Pasture,Spray,78.0,38.0,28314.0,9.0
+0,CRC200752,Use Groundwater,Irrigation,Pasture,Spray,176.0,75.0,22896.0,5.0
+0,CRC202710,Use Groundwater,Irrigation,Cropping,Spray,343.0,90.0,592000.0,
+0,CRC201906,Use Groundwater,Irrigation,Pasture,Spray,16.0,24.0,6048.0,7.0
+0,CRC230043,Use Groundwater,Irrigation,Pasture,Spray,151.0,36.0,34164.0,12.0
+0,CRC220384,Use Groundwater,Irrigation,Pasture,Spray,150.0,87.0,75168.0,10.0
+0,CRC202811,Use Groundwater,Irrigation,Pasture,Spray,15.0,10.0,5544.0,7.0
+0,CRC202807,Use Groundwater,Irrigation,Pasture,Spray,48.0,5.5,2772.0,7.0
+0,CRC202911,Use Groundwater,Irrigation,Pasture,Spray,12.0,7.0,3629.0,6.0
+0,CRC230421,Use Groundwater,Irrigation,Pasture,Spray,260.0,156.0,13478.0,1.0
+0,CRC222115,Use Groundwater,Irrigation,Pasture,Spray,291.0,83.0,,
+0,CRC222323,Use Groundwater,Irrigation,Pasture,Spray,26.0,16.0,1325.0,1.0
+0,CRC051668.1,Use Groundwater,Irrigation,Pasture,Spray,153.0,78.0,107827.0,16.0
+0,CRC171765,Use Groundwater,Irrigation,Pasture,Spray,132.0,,,
+0,CRC050987,Use Groundwater,Irrigation,Pasture,Spray,19.0,11.2,6492.0,7.0
+0,CRC223726,Use Groundwater,Irrigation,Pasture,Spray,10.0,,,
+0,CRC200852,Use Groundwater,Irrigation,Cropping,Spray - Gun,86.0,50.0,,
+0,CRC203885,Use Groundwater,Irrigation,Pasture,Spray - Gun,10.0,6.5,562.0,1.0
+0,CRC203767,Use Groundwater,Irrigation,Lifestyle,Spray,8.0,6.0,4320.0,10.0
+0,CRC204176,Use Groundwater,Irrigation,Pasture,Spray,725.7,155.0,13392.0,
+0,CRC122665,Use Groundwater,Irrigation,Pasture,Spray,80.0,48.0,3974.0,1.0
+0,CRC202278,Use Groundwater,Irrigation,Pasture,Spray,123.0,,,
+1,CRC202278,Use Groundwater,Stockwater,,,,,,
+2,CRC202278,Use Groundwater,Dairy Shed (Washdown/Cooling),,,,,,
+3,CRC202278,Use Groundwater,Domestic Use,,,,,,
+0,CRC220427,Use Groundwater,Irrigation,Pasture,Spray,47.0,29.0,24010.0,10.0
+0,CRC210506,Use Groundwater,Irrigation,Pasture,Spray,120.0,70.0,3024.0,1.0
+0,CRC223431,Use Groundwater,Irrigation,Pasture,Spray,212.0,111.4,,
+0,CRC156174,Use Groundwater,Irrigation,Pasture,Spray,47.0,28.0,29030.0,12.0
+0,CRC230705,Use Groundwater,Irrigation,Pasture,Spray,142.0,83.0,63828.0,7.0
+0,CRC221823,Use Groundwater,Irrigation,Pasture,Spray,80.0,45.0,40824.0,14.0
+0,CRC221821,Use Groundwater,Irrigation,Pasture,Spray,58.0,45.0,40824.0,14.0
+0,CRC230709,Use Groundwater,Irrigation,Pasture,Spray,68.0,40.0,22982.0,7.0
+0,CRC223099,Use Groundwater,Irrigation,Pasture,Spray - Gun,13.6,9.5,6156.0,9.0
+0,CRC200262,Use Surface Water,Irrigation,Market Garden,Spray - Gun,70.0,17.0,8750.0,7.0
+0,CRC223710,Use Surface Water,Irrigation,Pasture,Spray,12.0,,,
+0,CRC200268,Use Surface Water,Irrigation,Pasture,Spray - Gun,131.0,85.0,140000.0,30.0
+0,CRC223706,Use Surface Water,Irrigation,Pasture,Spray,176.0,46.5,3336.0,1.0
+0,CRC230759,Use Groundwater,Irrigation,Pasture,Border (Strip/Dyke),20.0,,,
+0,CRC211258,Use Groundwater,Irrigation,Pasture,Spray,184.0,152.0,42717.0,14.0
+0,CRC222966,Use Groundwater,Irrigation,Pasture,Spray,80.0,33.0,2732.0,1.0
+0,CRC231166,Use Groundwater,Irrigation,Pasture,Spray,151.0,54.0,51264.0,12.0
+0,CRC213946,Use Groundwater,Irrigation,Pasture,Spray,38.5,48.0,29030.0,14.0
+0,CRC203239,Use Groundwater,Irrigation,Pasture,Spray,226.0,30.0,2592.0,
+0,CRC146420,Use Groundwater,Irrigation,Pasture,Spray,20.8,16.0,,
+0,CRC200349,Use Groundwater,Irrigation,Pasture,Spray,171.0,34.0,14688.0,5.0
+0,CRC191210,Use Groundwater,Irrigation,Pasture,Spray,133.0,70.0,,
+0,CRC201025,Use Groundwater,Irrigation,Pasture,Spray,230.0,130.0,,
+0,CRC156356,Use Groundwater,Irrigation,Pasture,Spray,16.0,11.0,10080.0,14.0
+0,CRC221811,Use Groundwater,Irrigation,Pasture,Spray,81.0,32.0,41472.0,28.0
+0,CRC204018,Use Groundwater,Irrigation,Pasture,Spray,151.0,93.0,53886.0,7.0
+0,CRC202668,Use Groundwater,Irrigation,Pasture,Spray,144.0,30.0,13824.0,8.0
+0,CRC121700,Use Groundwater,Irrigation,Pasture,Spray,110.0,85.0,,
+0,CRC221810,Use Groundwater,Irrigation,Pasture,Spray,57.0,40.0,3024.0,1.0
+0,CRC230457,Use Groundwater,Irrigation,Cropping,Spray,73.0,33.3,47473.0,18.0
+0,CRC222858,Use Groundwater,Irrigation,Pasture,Spray,367.0,94.5,57149.0,7.0
+0,CRC211355,Use Groundwater,Irrigation,Pasture,Spray,125.0,,,
+0,CRC210510,Use Groundwater,Irrigation,Pasture,Spray,100.0,45.0,3240.0,1.0
+0,CRC223562,Use Groundwater,Irrigation,Pasture,Spray,118.0,60.0,20952.0,7.0
+0,CRC143907,Use Groundwater,Irrigation,Pasture,Spray,343.0,92.5,,
+0,CRC223553,Use Groundwater,Irrigation,Pasture,Spray - Gun,100.0,50.0,22680.0,7.0
+0,CRC215118,Use Groundwater,Dairy Shed (Washdown/Cooling),,,,,,
+1,CRC215118,Use Groundwater,Stockwater,,,,,,
+2,CRC215118,Use Groundwater,Domestic Use,,,,,,
+0,CRC223571,Use Groundwater,Irrigation,Pasture,Spray,46.0,33.0,1971.0,1.0
+0,CRC071253,Use Groundwater,Irrigation,Pasture,Spray,158.0,66.0,5702.0,1.0
+0,CRC140242,Use Groundwater,Irrigation,Pasture,Spray,35.0,14.5,,
+0,CRC223356,Use Groundwater,Irrigation,Market Garden,Spray,5.0,17.93,475.0,7.0
+0,CRC195408,Use Groundwater,Irrigation,Cropping,Spray - Gun,45.0,25.0,4950.0,7.0
+0,CRC214127,Use Groundwater,Irrigation,Pasture,Spray,75.0,,,
+0,CRC202277,Use Groundwater,Irrigation,Pasture,Spray,50.0,19.0,11102.0,7.0
+0,CRC223538,Use Groundwater,Irrigation,Pasture,Spray - Gun,135.0,38.0,3010.0,1.0
+0,CRC231121,Use Groundwater,Irrigation,Pasture,Spray - Gun,100.0,35.0,3024.0,1.0
+0,CRC011721.1,Use Groundwater,Irrigation,Pasture,Spray,202.0,118.0,8618.0,1.0
+0,CRC221596,Use Groundwater,Irrigation,Pasture,Spray,351.0,91.5,,
+0,CRC230992,Use Groundwater,Irrigation,Pasture,Spray,185.0,76.5,36590.0,7.0
+0,CRC220444,Use Groundwater,Irrigation,Pasture,Spray,0.0,66.0,,
+0,CRC231237,Use Groundwater,Irrigation,Pasture,Spray,100.0,42.0,38100.0,14.0
+0,CRC230990,Use Groundwater,Irrigation,Pasture,Spray,185.0,50.0,9660.0,7.0
+0,CRC175485,Use Groundwater,Irrigation,Pasture,Spray,267.0,146.0,66003.0,7.0
+0,CRC200331,Use Groundwater,Irrigation,Pasture,Spray,5.0,10.0,1250.0,7.0
+0,CRC211856,Use Groundwater,Irrigation,Pasture,Spray,142.0,95.0,626550.0,
+0,CRC204195,Use Groundwater,Irrigation,Pasture,Spray,43.5,17.4,8524.0,7.0
+0,CRC231239,Use Groundwater,Irrigation,Pasture,Spray,0.0,78.0,112320.0,30.0
+0,CRC222862,Use Groundwater,Irrigation,Pasture,Spray - Gun,56.0,,,
+0,CRC195291,Use Groundwater,Irrigation,Pasture,Spray - Gun,111.0,76.0,3964.0,1.0
+0,CRC195293,Use Groundwater,Irrigation,Pasture,Spray - Gun,111.0,76.0,824.0,1.0
+0,CRC230630,Use Groundwater,Irrigation,Pasture,Spray,130.0,85.0,5508.0,1.0
+0,CRC093142,Use Groundwater,Irrigation,Pasture,Spray,22.0,12.4,6652.0,7.0
+0,CRC202259,Use Groundwater,Irrigation,Pasture,Spray,32.4,12.4,6652.0,7.0
+0,CRC223433,Use Groundwater,Irrigation,Pasture,Spray,120.0,68.0,5630.0,1.0
+0,CRC211198,Use Groundwater,Irrigation,Pasture,Spray,26.0,,,
+0,CRC231205,Use Groundwater,Irrigation,Pasture,Spray,90.0,42.0,34020.0,21.0
+0,CRC223395,Use Groundwater,Irrigation,Pasture,Spray,70.0,30.0,,
+0,CRC195419,Use Groundwater,Irrigation,Pasture,Spray,94.0,46.0,27821.0,7.0
+0,CRC230320,Use Groundwater,Irrigation,Pasture,Spray - Gun,28.5,21.0,27824.0,16.0
+0,CRC195044,Use Groundwater,Irrigation,Pasture,Spray,50.3,21.0,1814.0,1.0
+0,CRC224522,Use Groundwater,Irrigation,Pasture,Spray,440.0,137.0,78848.0,7.0
+1,CRC224522,Use Groundwater,Dairy Shed (Washdown/Cooling),,,,,,
+2,CRC224522,Use Groundwater,Stockwater,,,,,,
+3,CRC224522,Use Groundwater,Domestic Use,,,,,,
+0,CRC220234,Use Groundwater,Irrigation,Pasture,Spray,456.0,76.0,60192.0,11.0
+0,CRC220236,Use Groundwater,Irrigation,Pasture,Spray,456.0,46.0,30096.0,11.0
+0,CRC230909,Use Groundwater,Irrigation,Pasture,Spray,466.0,190.9,16494.0,1.0
+0,CRC211351,Use Groundwater,Irrigation,Pasture,Spray,34.4,37.0,8600.0,7.0
+0,CRC230248,Use Groundwater,Irrigation,Pasture,Spray - Gun,90.0,26.0,18144.0,21.0
+0,CRC231232,Use Groundwater,Irrigation,Pasture,Spray,400.0,170.4,,
+0,CRC121816,Use Groundwater,Irrigation,Pasture,Spray,185.0,60.0,,
+0,CRC211532,Use Groundwater,Irrigation,Pasture,Spray,70.0,35.0,17500.0,7.0
+0,CRC231367,Use Groundwater,Irrigation,Pasture,Spray - Gun,14.0,6.0,,
+0,CRC231225,Use Groundwater,Irrigation,Pasture,Spray,69.0,41.1,3550.0,1.0
+0,CRC220333,Use Groundwater,Irrigation,Pasture,Spray,175.0,45.0,27216.0,7.0
+0,CRC230515,Use Groundwater,Irrigation,Pasture,Spray,84.0,70.0,37260.0,9.0
+0,CRC213037,Use Groundwater,Irrigation,Pasture,Spray,165.0,,,
+0,CRC224880,Use Groundwater,Irrigation,Pasture,Spray,11.0,12.0,2750.0,7.0
+0,CRC222852,Use Groundwater,Irrigation,Pasture,Spray,105.0,45.0,3888.0,1.0
+0,CRC230853,Use Groundwater,Irrigation,Pasture,Spray,87.0,50.0,4320.0,1.0
+0,CRC214396,Use Surface Water,Irrigation,Pasture,Spray - Gun,175.0,65.0,72072.0,14.0
+0,CRC214398,Use Surface Water,Irrigation,Cropping,Spray - Gun,175.0,65.0,20000.0,14.0
+0,CRC214388,Use Surface Water,Irrigation,Cropping,Spray - Gun,95.0,,,
+0,CRC214390,Use Surface Water,Irrigation,Cropping,Spray - Gun,100.0,,,
+0,CRC214392,Use Surface Water,Irrigation,Pasture,Spray - Gun,42.0,,,
+0,CRC220347,Use Surface Water,Irrigation,Cropping,Spray - Gun,40.0,19.0,1026.0,1.0
+0,CRC221066,Use Surface Water,Irrigation,Market Garden,Spray - Gun,39.0,,,
+0,CRC220331,Use Surface Water,Irrigation,Pasture,Spray,161.0,66.8,5773.0,1.0
+0,CRC230858,Use Surface Water,Irrigation,Pasture,Spray,101.0,38.0,3283.0,1.0
+0,CRC230327,Use Surface Water,Irrigation,Pasture,Spray - Gun,79.0,72.0,75802.0,14.0
+0,CRC230315,Use Surface Water,Irrigation,Pasture,Spray - Gun,100.0,,,
+0,CRC215228,Use Surface Water,Irrigation,Pasture,Spray,27.8,25.3,81332.0,365.0
+0,CRC204194,Use Surface Water,Irrigation,Pasture,Spray,156.4,62.6,30669.0,7.0
+0,CRC230438,Use Surface Water,Irrigation,Cropping,Spray,140.0,,,
+0,CRC230323,Use Groundwater,Irrigation,Pasture,Spray,0.0,50.0,,
+0,CRC231365,Use Groundwater,Irrigation,Pasture,Spray,87.0,38.0,17247.0,7.0
+0,CRC185137,Use Groundwater,Irrigation,Pasture,Spray,257.0,100.0,8640.0,1.0
+0,CRC071493,Use Groundwater,Irrigation,Pasture,Spray,160.0,100.0,8640.0,1.0
+0,CRC185038,Use Groundwater,Irrigation,Pasture,Spray,257.0,100.0,8640.0,1.0
+0,CRC230866,Use Groundwater,Irrigation,Pasture,Spray,0.0,4.9,1050.0,7.0
+0,CRC231260,Use Groundwater,Irrigation,Pasture,Spray,60.0,37.0,3197.0,1.0
+0,CRC221741,Use Surface Water,Irrigation,Pasture,Spray,265.0,191.0,14368.0,1.0
+0,CRC230370,Use Surface Water,Irrigation,Pasture,Spray,227.0,40.0,56946.0,21.0
+0,CRC220446,Use Groundwater,Irrigation,Pasture,Spray - Gun,66.0,30.0,44710.0,18.0
+0,CRC230337,Use Groundwater,Irrigation,Pasture,Spray,110.0,28.0,15725.0,7.0
+0,CRC212971,Use Groundwater,Irrigation,Pasture,Spray,116.0,56.6,81735.0,21.0
+0,CRC220075,Use Groundwater,Irrigation,Pasture,Spray,145.0,90.0,,
+0,CRC214049,Use Groundwater,Irrigation,Pasture,Spray - Gun,58.0,35.0,19580.0,7.0
+0,CRC224089,Use Groundwater,Irrigation,Pasture,Spray - Gun,36.0,18.0,1490.0,1.0
+0,CRC184109,Use Surface Water,Irrigation,Pasture,Spray,370.0,187.0,16157.0,1.0
+0,CRC220533,Use Groundwater,Irrigation,Pasture,Trickle,10.0,7.0,454.0,1.0
+0,CRC220279,Use Groundwater,Irrigation,Pasture,Spray,320.0,32.0,,
+0,CRC202479,Use Groundwater,Irrigation,Pasture,Spray - Gun,49.5,20.0,,
+0,CRC223337,Use Surface Water,Irrigation,Pasture,Spray,400.0,,,
+0,CRC222554,Use Groundwater,Irrigation,Pasture,Spray,162.0,85.0,45360.0,7.0
+0,CRC212932,Use Groundwater,Irrigation,Pasture,Spray,10.0,20.0,430.0,1.0
+0,CRC141670,Use Groundwater,Irrigation,Pasture,Spray,160.0,,,
+0,CRC204039,Use Groundwater,Irrigation,Pasture,Spray,271.0,50.0,,
+0,CRC221628,Use Groundwater,Irrigation,Pasture,Spray,158.0,75.0,45360.0,7.0
+0,CRC231313,Use Surface Water,Irrigation,Pasture,Spray,230.0,90.0,7452.0,1.0
+0,CRC201305,Use Groundwater,Irrigation,Pasture,Spray,10.0,,,
+0,CRC201296,Use Groundwater,Irrigation,,Spray,10.0,,,
+0,CRC204046,Use Groundwater,Irrigation,Pasture,Spray,210.0,80.0,909096.0,365.0
+0,CRC121134,Use Groundwater,Irrigation,Pasture,Spray,136.0,50.0,4320.0,1.0
+0,CRC062793,Use Surface Water,Irrigation,Pasture,Spray,100.0,9.0,778.0,1.0
+0,CRC202064,Use Groundwater,Irrigation,Pasture,Spray,119.0,63.0,,
+0,CRC203068,Use Groundwater,Irrigation,Pasture,Spray,96.0,50.0,30240.0,7.0
+0,CRC230217,Use Groundwater,Irrigation,Pasture,Spray,25.0,,,
+0,CRC195487,Use Groundwater,Irrigation,Golf Course,Spray,23.0,40.0,6377.0,7.0
+0,CRC231272,Use Groundwater,Irrigation,Pasture,Spray,120.0,72.0,89400.0,15.0
+0,CRC224538,Use Groundwater,Irrigation,Pasture,Spray,104.0,45.0,58320.0,18.0
+0,CRC230957,Use Groundwater,Irrigation,Pasture,Spray,124.0,68.0,83835.0,15.0
+0,CRC204234,Use Groundwater,Irrigation,Pasture,Spray,28.13,100.0,54432.0,7.0
+0,CRC200110,Use Groundwater,Irrigation,Pasture,Spray,130.0,79.6,75377.14,12.0
+0,CRC221286,Use Groundwater,Irrigation,Pasture,Spray,267.0,160.0,13824.0,1.0
+0,CRC224556,Use Groundwater,Irrigation,Pasture,Spray,129.0,75.0,,
+0,CRC201131,Use Groundwater,Irrigation,Pasture,Spray,218.0,169.0,218499.0,16.0
+0,CRC222183,Use Groundwater,Irrigation,Pasture,Spray,110.0,69.0,,
+0,CRC231083,Use Groundwater,Irrigation,Pasture,Spray,100.0,45.0,46332.0,13.0
+0,CRC214271,Use Groundwater,Irrigation,Pasture,Spray,175.0,120.0,114048.0,12.0
+0,CRC223598,Use Groundwater,Irrigation,Market Garden,Trickle,5.0,6.8,246.0,1.0
+0,CRC210664,Use Groundwater,Irrigation,Pasture,Spray,10.0,15.0,486.0,1.0
+0,CRC230889,Use Groundwater,Irrigation,Vineyard ,Trickle,14.0,,,
+0,CRC215171,Use Groundwater,Irrigation,Pasture,Spray,53.0,45.0,33534.0,14.0
+0,CRC215173,Use Groundwater,Irrigation,Market Garden,Spray,28.0,30.0,7560.0,14.0
+0,CRC200759,Use Groundwater,Irrigation,Pasture,Spray,111.0,,,
+1,CRC200759,Use Groundwater,Dairy Shed (Washdown/Cooling),,,,,,
+2,CRC200759,Use Groundwater,Stockwater,,,,,,
+3,CRC200759,Use Coastal Water,Potable Supply,,,,,,
+0,CRC223239,Use Groundwater,Irrigation,Pasture,Spray,163.0,97.0,704686.0,365.0
+0,CRC231049,Use Groundwater,Irrigation,Pasture,Spray,168.0,135.0,62597.0,7.0
+0,CRC140720,Use Groundwater,Irrigation,Pasture,Spray,144.0,68.0,24480.0,5.0
+0,CRC230644,Use Groundwater,Irrigation,Pasture,Spray,210.0,15.0,,
+0,CRC203846,Use Groundwater,Irrigation,Market Garden,Spray,16.7,,,
+0,CRC201133,Use Groundwater,Irrigation,Cropping,Spray,148.0,74.0,44754.0,7.0
+0,CRC230961,Use Groundwater,Irrigation,Pasture,Spray,110.0,53.0,,
+0,CRC231341,Use Groundwater,Irrigation,Pasture,Spray,330.0,195.0,,
+0,CRC222794,Use Groundwater,Irrigation,Pasture,Spray,180.0,110.0,9108.0,1.0
+0,CRC214825,Use Groundwater,Irrigation,Pasture,Spray,11.0,,,
+0,CRC230242,Use Groundwater,Irrigation,Pasture,Spray,10.0,,,
+0,CRC200486,Use Groundwater,Irrigation,Market Garden,Spray,10.0,,,
+0,CRC223677,Use Groundwater,Irrigation,Pasture,Spray,10.0,20.0,3456.0,7.0
+0,CRC205010,Use Groundwater,Irrigation,Pasture,Spray,290.0,174.0,,
+0,CRC223734,Use Groundwater,Irrigation,Pasture,Spray,442.0,326.0,26784.0,1.0
+0,CRC213495,Use Groundwater,Irrigation,Pasture,Spray,414.0,227.0,,
+0,CRC220941,Use Groundwater,Irrigation,Pasture,Spray,331.0,200.0,16560.0,1.0
+0,CRC204701,Use Groundwater,Irrigation,Pasture,Spray,145.0,93.0,7700.0,1.0
+0,CRC155355,Use Groundwater,Irrigation,Pasture,Spray,197.0,134.0,68971.0,7.0
+0,CRC201971,Use Groundwater,Irrigation,Pasture,Spray,11.0,10.0,4838.0,7.0
+0,CRC230778,Use Groundwater,Irrigation,Pasture,Spray,160.0,90.0,,
+0,CRC230597,Use Groundwater,Irrigation,Pasture,Spray,20.0,10.0,,
+0,CRC215299,Use Groundwater,Irrigation,Pasture,Spray,194.0,120.0,,
+0,CRC221263,Use Groundwater,Irrigation,Pasture,Spray,1453.0,516.0,,
+0,CRC194890,Use Groundwater,Irrigation,Pasture,Spray,325.0,214.0,15725.0,1.0
+0,CRC212229,Use Groundwater,Irrigation,Pasture,Spray,242.0,220.0,14813.0,1.0
+0,CRC120344.1,Use Groundwater,Irrigation,Market Garden,Spray,9.0,10.0,100.0,1.0
+0,CRC215045,Use Groundwater,Irrigation,Pasture,Spray,20.0,10.0,100.0,1.0
+0,CRC040112.1,Use Groundwater,Irrigation,Pasture,Spray,260.0,150.0,12420.0,1.0
+0,CRC210854,Use Groundwater,Irrigation,Pasture,Spray,197.0,109.0,,
+0,CRC210865,Use Groundwater,Irrigation,Pasture,Spray,153.3,80.0,,
+0,CRC204444,Use Groundwater,Irrigation,Pasture,Spray,10.0,45.0,,
+0,CRC222310,Use Groundwater,Irrigation,Pasture,Spray,160.0,45.0,,
+0,CRC210465,Use Groundwater,Irrigation,Pasture,Spray,254.9,120.0,,
+0,CRC201856,Use Groundwater,Irrigation,Pasture,Spray - Gun,13.0,12.0,10920.0,14.0
+0,CRC054301.3,Use Groundwater,Irrigation,Pasture,Spray,1054.0,535.0,46224.0,1.0
+0,CRC201789,Use Groundwater,Irrigation,Pasture,Spray,438.0,,,
+1,CRC201789,Use Groundwater,Dairy Shed (Washdown/Cooling),,,,,,
+2,CRC201789,Use Groundwater,Stockwater,,,,,,
+3,CRC201789,Use Groundwater,Domestic Use,,,,,,
+0,CRC231055,Use Groundwater,Irrigation,Pasture,Spray,185.0,16.0,1251.0,1.0
+0,CRC202110,Use Groundwater,Irrigation,Pasture,Spray,120.0,45.5,50450.0,14.0
+0,CRC213925,Use Groundwater,Irrigation,Pasture,Spray,20.0,7.6,,
+0,CRC195264,Use Groundwater,Irrigation,Pasture,Spray,23.0,14.0,11592.0,10.0
+0,CRC210870,Use Groundwater,Irrigation,Pasture,Spray,340.0,143.0,148262.0,12.0
+0,CRC221879,Use Groundwater,Irrigation,Pasture,Spray,40.1,30.0,14516.0,7.0
+0,CRC222305,Use Groundwater,Irrigation,Pasture,Spray,220.0,87.0,100850.0,14.0
+0,CRC202755,Use Groundwater,Irrigation,Pasture,Spray,68.0,39.0,22604.0,7.0
+0,CRC231164,Use Groundwater,Irrigation,Cropping,Spray,160.0,32.0,2765.0,1.0
+0,CRC195129,Use Groundwater,Irrigation,Pasture,Spray,120.0,60.0,27216.0,7.0
+0,CRC220302,Use Groundwater,Irrigation,Pasture,Spray,332.0,192.0,,
+0,CRC200989,Use Groundwater,Irrigation,Cropping,Spray - Gun,29.2,17.0,96040.0,
+0,CRC222185,Use Groundwater,Irrigation,Pasture,Spray,138.0,78.0,6459.0,1.0
+0,CRC221044,Use Groundwater,Irrigation,Pasture,Spray,388.0,90.0,,
+0,CRC221877,Use Groundwater,Irrigation,Pasture,Spray,53.0,48.0,24192.0,7.0
+0,CRC195261,Use Groundwater,Irrigation,Pasture,Spray,200.0,70.0,,
+0,CRC212240,Use Groundwater,Irrigation,Pasture,Spray,275.0,166.0,14342.0,1.0
+0,CRC141092,Use Groundwater,Irrigation,Pasture,Spray,236.0,122.0,94867.0,9.0
+0,CRC194144,Use Groundwater,Irrigation,Pasture,Spray,76.0,50.0,27216.0,7.0
+0,CRC202027,Use Groundwater,Irrigation,Pasture,Spray - Gun,209.0,120.0,103680.0,1.0
+0,CRC201098,Use Groundwater,Irrigation,Pasture,Spray,15.0,11.0,750.0,1.0
+0,CRC222355,Use Groundwater,Irrigation,Pasture,Spray,93.0,58.0,5011.0,1.0
+0,CRC203225,Use Groundwater,Irrigation,Pasture,Spray,345.6,208.0,17595.0,1.0
+0,CRC220900,Use Groundwater,Irrigation,Cropping,Spray,160.9,94.0,81216.0,10.0
+0,CRC214837,Use Surface Water,Irrigation,Pasture,Spray,243.0,100.0,8640.0,1.0
+0,CRC214839,Use Surface Water,Irrigation,Pasture,Spray,250.0,175.0,196560.0,13.0
+0,CRC230031,Use Surface Water,Irrigation,Pasture,Spray - Gun,46.0,,,
+0,CRC215297,Use Surface Water,Irrigation,Pasture,Border (Strip/Dyke),160.0,320.0,27648.0,10.0
+0,CRC195013,Use Groundwater,Irrigation,Pasture,Spray,8.0,7.0,365.0,1.0
+0,CRC215277,Use Surface Water,Irrigation,Pasture,Spray,130.0,38.0,,
+0,CRC215283,Use Surface Water,Irrigation,Pasture,Spray,90.0,38.0,45965.0,14.0
+0,CRC223027,Use Groundwater,Irrigation,Market Garden,Spray,55.0,75.0,,
+0,CRC051400.2,Use Groundwater,Irrigation,Pasture,Spray,616.0,295.0,25488.0,1.0
+0,CRC222556,Use Groundwater,Irrigation,Pasture,Spray,95.0,41.0,3542.0,1.0
+0,CRC220514,Use Groundwater,Irrigation,Pasture,Spray,483.0,249.0,20530.0,1.0
+0,CRC091638,Use Groundwater,Irrigation,Pasture,Spray,78.0,50.0,25920.0,6.0
+0,CRC221833,Use Groundwater,Irrigation,Pasture,Spray,330.0,95.0,,
+0,CRC222477,Use Groundwater,Irrigation,Pasture,Spray,315.0,450.0,207000.0,30.0
+1,CRC222477,Use Surface Water,Irrigation,Pasture,Border (Strip/Dyke),315.0,450.0,207000.0,30.0
+0,CRC214104,Use Groundwater,Irrigation,Cropping,Spray,77.9,45.0,,
+0,CRC230967,Use Groundwater,Irrigation,Pasture,Spray,40.0,25.0,8613.0,7.0
+0,CRC201945,Use Groundwater,Irrigation,Pasture,Spray,96.6,60.0,30240.0,7.0
+0,CRC230840,Use Groundwater,Irrigation,,Spray,214.0,120.0,,
+0,CRC201873,Use Groundwater,Irrigation,Pasture,Spray,210.0,105.0,8694.0,1.0
+0,CRC212873,Use Groundwater,Irrigation,Pasture,Spray,240.0,100.0,54432.0,7.0
+0,CRC230849,Use Groundwater,Irrigation,Pasture,Spray,146.0,101.0,940352.0,7.0
+0,CRC222170,Use Groundwater,Irrigation,Pasture,Spray,106.0,60.0,31449.0,7.0
+0,CRC231144,Use Groundwater,Irrigation,Pasture,Spray,100.0,,,
+0,CRC222172,Use Groundwater,Irrigation,Pasture,Spray,121.0,67.0,,
+0,CRC230652,Use Groundwater,Irrigation,Pasture,Spray,300.0,175.0,166320.0,11.0
+0,CRC204826,Use Groundwater,Irrigation,Pasture,Spray,40.0,38.0,10250.0,7.0
+0,CRC152535,Use Groundwater,Irrigation,Pasture,Spray,0.0,45.0,,
+0,CRC145944,Use Groundwater,Irrigation,Pasture,Spray,116.0,,,
+0,CRC204401,Use Groundwater,Irrigation,Market Garden,Spray,260.0,123.0,10200.0,1.0
+0,CRC214782,Use Groundwater,Irrigation,Pasture,Spray - Gun,171.0,98.0,,
+0,CRC230693,Use Groundwater,Irrigation,Pasture,Spray,169.0,42.0,,
+0,CRC222334,Use Groundwater,Irrigation,Pasture,Spray,170.0,98.4,,
+0,CRC223065,Use Groundwater,Irrigation,Pasture,Spray,74.3,45.0,,
+0,CRC157234,Use Groundwater,Irrigation,Pasture,Spray,49.7,,,
+0,CRC200249,Use Groundwater,Irrigation,Cropping,Spray,64.4,35.0,209119.0,365.0
+0,CRC212206,Use Groundwater,Irrigation,Pasture,Spray - Gun,45.0,15.0,8694.0,7.0
+0,CRC200690,Use Groundwater,Irrigation,Pasture,Spray,195.0,100.0,48384.0,7.0
+0,CRC204131,Use Groundwater,Irrigation,Pasture,Spray,220.0,134.0,11578.0,1.0
+0,CRC163673,Use Groundwater,Irrigation,Pasture,Spray,229.0,131.0,101866.0,9.0
+0,CRC231209,Use Groundwater,Irrigation,Pasture,Spray,16.0,,,
+0,CRC230686,Use Groundwater,Irrigation,Pasture,Spray,125.0,45.0,3888.0,1.0
+0,CRC204412,Use Groundwater,Irrigation,Pasture,Spray,102.0,48.0,3974.0,1.0
+0,CRC231220,Use Groundwater,Irrigation,Pasture,Spray,90.0,60.0,36288.0,7.0
+0,CRC231207,Use Groundwater,Irrigation,Pasture,Spray,93.0,60.0,36288.0,7.0
+0,CRC214344,Use Groundwater,Irrigation,Cropping,Spray,7.0,10.0,2016.0,7.0
+0,CRC230383,Use Groundwater,Irrigation,Pasture,Spray,80.0,,,
+0,CRC230862,Use Groundwater,Irrigation,Pasture,Spray,170.0,80.0,76032.0,12.0
+0,CRC210292,Use Groundwater,Irrigation,Cropping,Spray,151.0,87.0,52618.0,7.0
+0,CRC164819,Use Groundwater,Irrigation,Pasture,Spray,151.0,,,
+0,CRC201556,Use Groundwater,Irrigation,Pasture,Spray,45.0,30.0,29250.0,13.0
+0,CRC214831,Use Groundwater,Irrigation,Pasture,Spray,34.0,20.0,,
+0,CRC204600,Use Groundwater,Irrigation,Pasture,Spray,145.0,100.0,115920.0,14.0
+0,CRC214807,Use Groundwater,Irrigation,Pasture,Spray,324.0,77.0,42336.0,7.0
+0,CRC051603,Use Groundwater,Irrigation,Pasture,Spray,148.0,70.0,60984.0,11.0
+0,CRC200962,Use Groundwater,Irrigation,Pasture,Spray,12.5,8.0,9274.0,14.0
+0,CRC230178,Use Groundwater,Irrigation,Pasture,Spray,68.0,65.0,28140.0,7.0
+0,CRC223151,Use Groundwater,Irrigation,Pasture,Spray,218.0,116.0,55642.0,7.0
+0,CRC166685,Use Groundwater,Irrigation,Pasture,Spray,71.0,91.0,21300.0,7.0
+0,CRC193664,Use Groundwater,Irrigation,Pasture,Spray,71.0,91.0,21300.0,7.0
+0,CRC052731,Use Groundwater,Irrigation,Pasture,Spray,386.0,138.0,95385.0,7.0
+0,CRC203093,Use Groundwater,Irrigation,Pasture,Spray,186.0,92.0,,
+0,CRC203461,Use Groundwater,Irrigation,Pasture,Spray,111.0,71.0,35273.0,6.0
+0,CRC221190,Use Groundwater,Irrigation,Market Garden,Spray,3.0,10.0,2270.0,7.0
+0,CRC158137,Use Groundwater,Irrigation,Pasture,Spray,296.0,,,
+0,CRC214803,Use Groundwater,Irrigation,Pasture,Spray,324.0,106.0,,
+0,CRC211302,Use Groundwater,Irrigation,Pasture,Spray,70.0,60.0,30240.0,7.0
+0,CRC221793,Use Groundwater,Irrigation,Pasture,Spray,12.0,10.0,6480.0,10.0
+0,CRC212461,Use Groundwater,Irrigation,Pasture,Spray,136.6,85.0,45360.0,7.0
+1,CRC212461,Use Groundwater,Stockwater,,,,,,
+2,CRC212461,Use Groundwater,Domestic Use,,,,,,
+0,CRC073728,Use Groundwater,Irrigation,Pasture,Spray,182.0,115.0,9936.0,1.0
+0,CRC073805,Use Groundwater,Irrigation,Pasture,Spray,217.0,79.0,6826.0,1.0
+0,CRC200198,Use Groundwater,Irrigation,Pasture,Spray,300.0,60.0,36000.0,7.0
+0,CRC051943.1,Use Groundwater,Irrigation,Pasture,Spray,170.0,85.0,,
+0,CRC221804,Use Surface Water,Irrigation,Pasture,Spray,455.7,225.0,,
+0,CRC223464,Use Groundwater,Irrigation,Pasture,Spray - Gun,10.0,6.0,1512.0,7.0
+0,CRC144158,Use Groundwater,Irrigation,Pasture,Spray,92.8,46.0,,
+0,CRC205050,Use Groundwater,Irrigation,Pasture,Spray,56.8,28.0,,
+0,CRC103481.1,Use Groundwater,Irrigation,Pasture,Spray,217.0,155.0,133920.0,10.0
+0,CRC181044,Use Surface Water,Irrigation,Pasture,Spray,7000.0,1000.0,,
+0,CRC210885,Use Surface Water,Irrigation,Pasture,Spray,46.0,5.0,2520.0,9.0
+0,CRC224408,Use Surface Water,Irrigation,Pasture,Spray - Gun,48.0,3.0,259.0,1.0
+0,CRC201086,Use Groundwater,Irrigation,Pasture,Spray,168.5,100.0,8640.0,1.0
+0,CRC202603,Use Groundwater,Irrigation,Pasture,Spray,85.0,30.0,523457.0,365.0
+0,CRC223498,Use Groundwater,Irrigation,Pasture,Spray,8.5,1.1,95.0,1.0
+0,CRC211878,Use Groundwater,Irrigation,Pasture,Spray - Gun,220.0,106.0,9159.0,1.0
+0,CRC204029,Use Groundwater,Irrigation,Market Garden,Trickle,25.0,6.2,536.0,1.0
+0,CRC200328,Use Groundwater,Irrigation,Pasture,Spray - Gun,40.0,25.0,12600.0,7.0
+0,CRC222454,Use Groundwater,Irrigation,Pasture,Spray,40.0,19.0,,
+0,CRC213671,Use Groundwater,Irrigation,Pasture,Spray - Gun,18.0,,,
+0,CRC202957,Use Groundwater,Irrigation,Pasture,Spray,346.9,30.0,2592.0,1.0
+0,CRC223250,Use Groundwater,Irrigation,Pasture,Trickle,11.38,,,
+0,CRC220518,Use Groundwater,Irrigation,Vineyard ,Trickle,20.0,,,
+0,CRC220593,Use Groundwater,Irrigation,Vineyard ,Trickle,20.0,,,
+0,CRC222026,Use Groundwater,Irrigation,Pasture,Spray,553.0,5.0,,
+0,CRC222028,Use Groundwater,Irrigation,Pasture,Spray,448.3,,,
+0,CRC223690,Use Groundwater,Irrigation,Pasture,Spray,130.0,49.0,4057.0,1.0
+0,CRC204742,Use Groundwater,Irrigation,Vineyard,Trickle,180.0,43.6,3745.0,1.0
+0,CRC200570,Use Surface Water,Irrigation,Pasture,Spray,20.0,,,
+0,CRC222068,Use Surface Water,Irrigation,Pasture,Spray,23.0,,,
+0,CRC222189,Use Surface Water,Irrigation,Pasture,Spray - Gun,10.0,,,
+0,CRC222024,Use Surface Water,Irrigation,Pasture,Spray,606.0,50.0,4320.0,1.0
+0,CRC201129,Use Groundwater,Irrigation,Pasture,Spray,100.0,25.0,27720.0,14.0
+0,CRC143805,Use Groundwater,Irrigation,Pasture,Spray,80.7,29.0,2506.0,1.0
+0,CRC212179,Use Groundwater,Irrigation,Pasture,Spray,83.63,52.45,4532.0,1.0
+0,CRC230838,Use Groundwater,Irrigation,Pasture,Spray,18.0,12.1,4880.0,7.0
+0,CRC203210,Use Groundwater,Irrigation,Pasture,Spray - Gun,5.43,9.0,3283.2,14.0
+0,CRC223041,Use Groundwater,Irrigation,Sports Field,Spray,20.0,33.6,5927.0,7.0
+0,CRC222338,Use Groundwater,Irrigation,Pasture,Spray - Gun,0.0,5.7,3447.0,14.0
+0,CRC223686,Use Groundwater,Irrigation,Pasture,Spray,85.0,50.0,,
+0,CRC214136,Use Groundwater,Irrigation,Pasture,Spray,150.0,80.0,6912.0,1.0
+0,CRC230482,Use Groundwater,Irrigation,Pasture,Spray,40.0,,,
+0,CRC212993,Use Surface Water,Irrigation,Pasture,Border (Strip/Dyke),10.0,,,
+0,CRC195147,Use Surface Water,Irrigation,Pasture,Spray - Gun,91.0,35.0,44352.0,16.0
+0,CRC203207,Use Surface Water,Irrigation,Pasture,Spray,110.0,56.0,4838.0,1.0
+0,CRC211562,Use Surface Water,Irrigation,Pasture,Spray,24.0,12.3,10184.0,10.0
+0,CRC223369,Use Surface Water,Irrigation,Pasture,Spray,13.0,,,
+0,CRC195134,Use Surface Water,Irrigation,Pasture,Border (Strip/Dyke),40.0,38.0,1642.0,1.0
+0,CRC211272,Use Surface Water,Irrigation,Pasture,Spray,129.0,64.0,5299.0,1.0
+0,CRC224008,Use Groundwater,Irrigation,Pasture,Spray,4.0,,,
+0,CRC223072,Use Groundwater,Irrigation,Cropping,Spray - Gun,15.0,12.0,3629.0,7.0
+0,CRC221214,Use Groundwater,Irrigation,Market Garden,Spray,14.0,25.0,700.0,1.0
+0,CRC213017,Use Groundwater,Irrigation,Pasture,Spray,120.0,53.0,16027.0,7.0
+0,CRC221595,Use Groundwater,Gravel Extraction/Processing,,,,,112047.2,365.0
+1,CRC221595,Use Groundwater,Irrigation,Dust suppression,Spray,0.0,,18000.0,365.0
+2,CRC221595,Use Groundwater,Irrigation,Amenity,Spray,0.0,,155.0,365.0
+0,CRC180069,Use Groundwater,Irrigation,Cropping,Spray - Gun,40.0,,,
+0,CRC222659,Use Groundwater,Irrigation,Pasture,Spray,211.0,65.0,44928.0,8.0
+0,CRC220062,Use Groundwater,Irrigation,Pasture,Spray - Gun,80.0,45.4,9806.0,7.0
+0,CRC201621,Use Groundwater,Irrigation,Pasture,Spray,8.25,,,
+0,CRC092661,Use Groundwater,Gravel Extraction/Processing,,,,,,
+1,CRC092661,Use Groundwater,Irrigation,Dust suppression,Spray,10.0,,,
+0,CRC222175,Use Groundwater,Irrigation,Pasture,Spray,28.0,23.0,7882.0,7.0
+0,CRC144785,Use Groundwater,Irrigation,Pasture,Spray,5.5,,,
+0,CRC230903,Use Groundwater,Irrigation,Pasture,Spray,108.0,38.0,3284.0,1.0
+0,CRC210392,Use Groundwater,Irrigation,Pasture,Spray,0.0,7.0,605.0,1.0
+0,CRC202560,Use Groundwater,Irrigation,Pasture,Spray,21.2,10.6,12822.0,16.0
+0,CRC202492,Use Groundwater,Irrigation,Pasture,Spray,8.0,5.0,432.0,1.0
+0,CRC214199,Use Groundwater,Irrigation,Pasture,Spray,228.0,41.8,50554.0,14.0
+0,CRC201711,Use Groundwater,Irrigation,Pasture,Spray,4.0,,,
+0,CRC212029,Use Groundwater,Irrigation,Market Garden,Trickle,62.0,11.1,4595.0,5.0
+0,CRC203642,Use Groundwater,Irrigation,Pasture,Spray,23.0,14.0,1159.0,1.0
+0,CRC201196,Use Groundwater,Irrigation,Pasture,Spray - Gun,49.0,30.0,,
+0,CRC183243,Use Groundwater,Irrigation,Pasture,Spray,20.0,20.0,1159.0,9.0
+0,CRC211994,Use Groundwater,Irrigation,Pasture,Spray,6.0,,,
+0,CRC231067,Use Groundwater,Irrigation,Market Garden,Trickle,5.0,,,
+0,CRC223023,Use Groundwater,Irrigation,Pasture,Spray - Gun,17.0,,,
+0,CRC214792,Use Groundwater,Irrigation,Market Garden,Trickle,1.0,9.0,130.0,3.0
+0,CRC222083,Use Groundwater,Irrigation,Pasture,Spray,46.0,,,
+0,CRC213076,Use Groundwater,Irrigation,Market Garden,Spray - Gun,6.0,,,
+0,CRC201854,Use Groundwater,Irrigation,Market Garden,Spray,3.5,2.65,620.0,7.0
+0,CRC194920,Use Groundwater,Irrigation,Pasture,Spray,2.5,10.0,72.0,2.0
+0,CRC223056,Use Groundwater,Irrigation,Sports Field,Spray,22.0,39.0,8165.0,7.0
+0,CRC215208,Use Groundwater,Irrigation,Market Garden,Spray - Gun,25.0,,,
+0,CRC200950,Use Groundwater,Irrigation,Pasture,Spray,36.0,21.0,1814.0,10.0
+0,CRC220118,Use Groundwater,Irrigation,Sports Field,Spray - Gun,8.0,24.5,2592.0,7.0
+0,CRC202084,Use Groundwater,Irrigation,Pasture,Spray,60.0,30.0,24192.0,28.0
+0,CRC204715,Use Groundwater,Irrigation,Pasture,Spray,15.0,11.25,8384.0,11.0
+0,CRC212181,Use Groundwater,Irrigation,Pasture,Spray,0.0,,,
+0,CRC211076,Use Groundwater,Irrigation,Pasture,Spray - Gun,8.0,10.0,4032.0,14.0
+0,CRC195138,Use Groundwater,Irrigation,Pasture,Spray - Gun,88.0,22.0,27878.0,16.0
+0,CRC221081,Use Groundwater,Irrigation,Pasture,Spray - Gun,20.0,,,
+0,CRC212046,Use Groundwater,Irrigation,Pasture,Trickle,17.0,,,
+0,CRC200107,Use Groundwater,Irrigation,Pasture,Spray,41.0,,,
+0,CRC203066,Use Groundwater,Irrigation,Market Garden,Spray,4.4,22.0,238.0,1.0
+0,CRC220852,Use Groundwater,Irrigation,Market Garden,Trickle,4.6,,,
+0,CRC230363,Use Groundwater,Irrigation,Cropping,Spray,15.0,7.5,621.0,1.0
+0,CRC142181,Use Groundwater,Irrigation,Pasture,Spray,32.0,9.0,758.0,1.0
+0,CRC222955,Use Groundwater,Irrigation,Pasture,Spray,17.0,,,
+0,CRC213668,Use Groundwater,Irrigation,Market Garden,Spray,3.0,,,
+0,CRC223243,Use Groundwater,Irrigation,Market Garden,Spray,10.0,,,
+0,CRC215070,Use Groundwater,Irrigation,Pasture,Spray,8.0,,,
+0,CRC223767,Use Groundwater,Irrigation,Pasture,Spray,10.0,,,
+0,CRC222811,Use Groundwater,Irrigation,Pasture,Spray,10.0,,,
+0,CRC222407,Use Groundwater,Irrigation,Pasture,Spray,6.0,4.99,332.0,1.0
+0,CRC204557,Use Groundwater,Irrigation,Pasture,Spray,45.0,30.0,37260.0,15.0
+0,CRC203377,Use Groundwater,Irrigation,Pasture,Spray,10.0,10.0,432.0,1.0
+0,CRC211450,Use Groundwater,Irrigation,Cropping,Spray,8.3,5.0,399.1,1.0
+0,CRC211451,Use Groundwater,Irrigation,Cropping,Spray,1.5,1.0,68.9,1.0
+0,CRC143338,Use Groundwater,Irrigation,Pasture,Spray,0.0,4.0,230.0,1.0
+0,CRC221223,Use Groundwater,Irrigation,Pasture,Spray,40.0,,,
+0,CRC211761,Use Groundwater,Irrigation,Pasture,Spray,10.4,11.0,554.4,1.0
+0,CRC222518,Use Groundwater,Irrigation,Market Garden,Spray - Gun,7.0,,,
+0,CRC204161,Use Groundwater,Irrigation,Pasture,Spray,122.0,60.0,482000.0,
+0,CRC201929,Use Groundwater,Irrigation,Pasture,Spray - Gun,41.7,10.0,133163.0,
+0,CRC121390,Use Groundwater,Irrigation,Pasture,Spray,60.0,25.0,,
+0,CRC215007,Use Groundwater,Irrigation,Pasture,Spray,64.0,,,
+0,CRC223802,Use Groundwater,Irrigation,Pasture,Spray,4.2,8.0,230.0,1.0
+0,CRC223806,Use Groundwater,Irrigation,Pasture,Spray,4.0,8.0,230.0,1.0
+1,CRC223806,Use Groundwater,Domestic Use,,,,,,
+2,CRC223806,Use Groundwater,Stockwater,,,,,,
+0,CRC203168,Use Groundwater,Irrigation,Pasture,Spray,56.0,32.0,2764.0,1.0
+0,CRC213807,Use Groundwater,Irrigation,Pasture,Spray,30.0,18.0,1555.0,1.0
+0,CRC201463,Use Groundwater,Irrigation,Pasture,Spray,8.0,,,
+0,CRC210481,Use Groundwater,Irrigation,Pasture,Spray - Gun,75.0,4.0,317.0,1.0
+0,CRC213954,Use Groundwater,Irrigation,Market Garden,Spray - Gun,7.0,7.0,2117.0,7.0
+0,CRC214468,Use Groundwater,Irrigation,Pasture,Spray,97.0,76.0,6300.0,1.0
+0,CRC204663,Use Groundwater,Irrigation,Pasture,Spray,200.0,60.0,100000.0,21.0
+0,CRC204089,Use Groundwater,Irrigation,Pasture,Spray,221.3,154.0,12614.4,1.0
+0,CRC223903,Use Groundwater,Irrigation,Pasture,Spray,0.0,7.5,8694.0,15.0
+0,CRC180654,Use Groundwater,Irrigation,Pasture,Spray,0.0,15.0,17388.0,15.0
+0,CRC223971,Use Groundwater,Irrigation,Pasture,Spray,188.0,69.0,,
+0,CRC214795,Use Groundwater,Irrigation,Pasture,Spray - Gun,15.0,6.0,3478.0,14.0
+0,CRC214532,Use Groundwater,Irrigation,Pasture,Spray,10.0,,,
+0,CRC202637,Use Groundwater,Irrigation,Pasture,Spray,20.0,30.0,972.0,1.0
+0,CRC200812,Use Groundwater,Irrigation,Pasture,Spray,102.0,96.49,,
+0,CRC202472,Use Groundwater,Irrigation,Pasture,Spray,80.0,23.0,30974.0,17.0
+0,CRC213680,Use Groundwater,Irrigation,Pasture,Spray,490.0,215.5,1107975.0,365.0
+0,CRC230678,Use Groundwater,Irrigation,Pasture,Spray,42.0,30.0,23328.0,12.0
+0,CRC230688,Use Groundwater,Irrigation,Pasture,Spray,42.0,20.3,,
+0,CRC200711,Use Groundwater,Irrigation,Pasture,Spray,30.0,23.0,26827.0,21.0
+0,CRC222048,Use Groundwater,Irrigation,Pasture,Spray,37.0,23.0,,
+0,CRC212019,Use Groundwater,Irrigation,Pasture,Spray,0.0,15.0,17388.0,15.0
+0,CRC222696,Use Groundwater,Irrigation,Pasture,Spray,20.0,22.7,4903.0,7.0
+0,CRC210891,Use Groundwater,Irrigation,Market Garden,Trickle,21.0,,,
+0,CRC214580,Use Groundwater,Irrigation,Pasture,Spray - Gun,10.0,23.0,3974.0,7.0
+0,CRC230388,Use Groundwater,Irrigation,Pasture,Spray,35.0,55.0,27258.0,14.0
+0,CRC200906,Use Groundwater,Irrigation,Pasture,Spray,158.0,50.0,,
+0,CRC200973,Use Groundwater,Irrigation,Pasture,Spray,70.0,39.0,3229.0,1.0
+0,CRC211812,Use Groundwater,Irrigation,Pasture,Spray,90.0,,,
+0,CRC202101,Use Groundwater,Irrigation,Pasture,Spray,65.0,38.0,3240.0,1.0
+0,CRC200387,Use Groundwater,Irrigation,Pasture,Spray,111.0,,,
+0,CRC050061,Use Groundwater,Irrigation,Pasture,Spray,25.0,14.0,1210.0,1.0
+0,CRC220114,Use Groundwater,Irrigation,Pasture,Spray,26.0,13.0,,
+0,CRC220115,Use Groundwater,Irrigation,Pasture,Spray,92.0,56.0,,
+0,CRC214472,Use Groundwater,Irrigation,Pasture,Spray,38.0,18.0,1166.0,1.0
+0,CRC231258,Use Groundwater,Irrigation,Cropping,Spray,31.6,19.0,9576.0,7.0
+0,CRC221610,Use Groundwater,Irrigation,Pasture,Spray,111.0,10.5,,
+0,CRC212997,Use Groundwater,Irrigation,Pasture,Spray,121.0,,,
+0,CRC220386,Use Groundwater,Irrigation,Pasture,Spray,90.0,30.0,2376.0,1.0
+0,CRC222809,Use Groundwater,Irrigation,Pasture,Spray,152.0,80.0,10368.0,1.0
+0,CRC143030,Use Groundwater,Irrigation,Pasture,Spray - Gun,92.0,34.0,2938.0,1.0
+0,CRC220256,Use Groundwater,Irrigation,Pasture,Spray,96.0,60.0,,
+0,CRC220253,Use Groundwater,Irrigation,Pasture,Spray - Gun,41.0,60.0,5184.0,1.0
+0,CRC223295,Use Groundwater,Irrigation,Pasture,Spray,67.0,50.0,34560.0,10.0
+0,CRC223153,Use Groundwater,Irrigation,Cropping,Spray,118.0,114.2,,
+0,CRC203036,Use Groundwater,Irrigation,Pasture,Spray - Gun,263.0,170.0,1162117.0,365.0
+0,CRC184915,Use Groundwater,Irrigation,Pasture,Spray,264.0,,,
+0,CRC204705,Use Groundwater,Irrigation,Pasture,Spray,109.5,70.0,5616.0,1.0
+0,CRC211104,Use Groundwater,Irrigation,Pasture,Spray,18.0,26.0,2246.0,1.0
+0,CRC224594,Use Groundwater,Irrigation,Pasture,Spray,67.0,19.0,2189.0,1.0
+0,CRC223301,Use Groundwater,Irrigation,Market Garden,Spray,29.0,,,
+0,CRC215167,Use Groundwater,Irrigation,Pasture,Spray,8.0,6.0,5184.0,12.0
+0,CRC214160,Use Groundwater,Irrigation,Pasture,Spray - Gun,38.0,20.0,25920.0,18.0
+0,CRC211249,Use Groundwater,Irrigation,Pasture,Spray,11.0,,,
+0,CRC214892,Use Groundwater,Irrigation,Pasture,Spray,5.58,3.0,,
+0,CRC201418,Use Groundwater,Irrigation,Pasture,Spray,28.0,15.0,864.0,1.0
+0,CRC202936,Use Groundwater,Irrigation,Cropping,Spray,2.0,2.54,9120.0,
+0,CRC214917,Use Groundwater,Irrigation,Pasture,Spray,7.0,7.6,2298.0,10.0
+0,CRC211384,Use Groundwater,Irrigation,Ready Lawn,Spray,12.8,24.0,5880.0,7.0
+0,CRC230792,Use Groundwater,Irrigation,Pasture,Spray,17.7,,,
+0,CRC213111,Use Groundwater,Irrigation,Pasture,Spray,11.0,,,
+0,CRC222012,Use Groundwater,Irrigation,Pasture,Spray,11.0,,,
+0,CRC214798,Use Groundwater,Irrigation,Market Garden,Spray,2.0,,,
+0,CRC201446,Use Groundwater,Irrigation,Orchard - Nut,Spray,4.2,3.0,700.0,7.0
+0,CRC222220,Use Groundwater,Irrigation,Pasture,Spray,0.0,31.4,,
+0,CRC200810,Use Groundwater,Irrigation,Pasture,Spray,80.0,150.0,51840.0,14.0
+0,CRC202743,Use Groundwater,Irrigation,Amenity,Spray - Gun,123.0,75.0,745200.0,150.0
+1,CRC202743,Use Groundwater,Domestic Use,,,,75.0,,
+2,CRC202743,Use Groundwater,Stockwater,,,,75.0,,
+0,CRC203610,Use Groundwater,Irrigation,Cropping,Spray,10.0,,,
+0,CRC203970,Use Groundwater,Irrigation,Market Garden,Spray,10.0,,,
+0,CRC212782,Use Groundwater,Irrigation,Pasture,Spray - Gun,8.0,10.0,3456.0,10.0
+0,CRC215241,Use Groundwater,Irrigation,Pasture,Spray,80.0,38.0,3283.0,1.0
+0,CRC211138,Use Groundwater,Irrigation,Pasture,Spray,34.4,8.0,,
+0,CRC201469,Use Groundwater,Irrigation,Cropping,Spray - Gun,51.0,,,
+0,CRC202034,Use Groundwater,Irrigation,Cropping,Spray,30.0,21.0,1520.0,1.0
+0,CRC144207,Use Groundwater,Irrigation,Pasture,Spray,60.0,,,
+0,CRC224906,Use Groundwater,Irrigation,Pasture,Spray - Gun,75.0,80.0,3229.0,1.0
+1,CRC224906,Use Groundwater,Stockwater,,,,,,
+0,CRC230660,Use Groundwater,Irrigation,Pasture,Spray,19.0,,,
+0,CRC231242,Use Groundwater,Irrigation,Pasture,Spray,4.0,,,
+0,CRC215240,Use Groundwater,Irrigation,Pasture,Spray,54.0,37.5,32400.0,14.0
+0,CRC230673,Use Groundwater,Irrigation,Pasture,Spray,10.0,4.9,4277.0,12.0
+0,CRC214346,Use Groundwater,Irrigation,Market Garden,Spray,23.0,6.0,,
+0,CRC195007,Use Groundwater,Irrigation,Pasture,Spray,16.0,6.0,,
+0,CRC202932,Use Groundwater,Irrigation,Pasture,Spray,76.0,80.0,27648.0,8.0
+0,CRC230658,Use Groundwater,Irrigation,Pasture,Spray,81.0,39.0,33696.0,12.0
+0,CRC222534,Use Groundwater,Irrigation,Ready Lawn,Spray - Gun,20.3,16.0,,
+0,CRC050809,Use Groundwater,Irrigation,Pasture,Spray,55.0,33.0,2750.0,1.0
+0,CRC211513,Use Groundwater,Irrigation,Cropping,Spray - Gun,101.5,66.0,476236.0,
+0,CRC210819,Use Groundwater,Irrigation,Pasture,Spray,120.0,70.0,,
+0,CRC210739,Use Groundwater,Irrigation,Pasture,Spray,210.0,90.0,7452.0,1.0
+0,CRC211094,Use Groundwater,Irrigation,Pasture,Spray,53.4,27.6,,
+0,CRC212914,Use Groundwater,Irrigation,Pasture,Spray,19.1,8.0,,
+0,CRC200279,Use Groundwater,Irrigation,Pasture,Spray,25.0,15.0,18630.0,15.0
+0,CRC143577,Use Groundwater,Irrigation,Pasture,Spray,154.0,89.0,,
+0,CRC222646,Use Groundwater,Irrigation,Pasture,Spray,48.6,35.0,35216.0,14.0
+0,CRC222645,Use Groundwater,Irrigation,Pasture,Spray,91.4,35.0,42400.0,14.0
+0,CRC223559,Use Groundwater,Irrigation,Pasture,Spray,21.0,15.0,,
+0,CRC200790,Use Groundwater,Irrigation,Pasture,Spray,70.0,25.0,23436.0,14.0
+0,CRC212104,Use Groundwater,Irrigation,Pasture,Spray,173.0,39.0,575326.0,365.0
+0,CRC201026,Use Groundwater,Irrigation,Pasture,Spray,210.0,105.0,9072.0,1.0
+0,CRC194957,Use Groundwater,Irrigation,Cropping,Spray,345.0,70.0,767060.0,365.0
+1,CRC194957,Use Groundwater,Domestic Use,,,,,,
+2,CRC194957,Use Groundwater,Stormwater,,,,,,
+0,CRC222536,Use Groundwater,Irrigation,Pasture,Spray,362.0,210.0,,
+0,CRC220897,Use Groundwater,Irrigation,Pasture,Spray,362.0,210.0,18144.0,1.0
+0,CRC202496,Use Groundwater,Irrigation,Orchard - Fruit,Spray,13.8,15.0,4838.0,7.0
+0,CRC201731,Use Groundwater,Irrigation,Pasture,Spray,51.0,30.0,2600.0,1.0
+0,CRC201332,Use Groundwater,Irrigation,Pasture,Spray,106.0,66.0,5500.0,1.0
+0,CRC201852,Use Groundwater,Irrigation,Pasture,Spray - Gun,51.0,30.0,297075.0,
+0,CRC201531,Use Groundwater,Irrigation,Pasture,Spray,25.0,15.0,1200.0,7.0
+0,CRC220996,Use Groundwater,Irrigation,Pasture,Spray,21.0,25.0,8640.0,8.0
+0,CRC202931,Use Surface Water,Irrigation,Pasture,Border (Strip/Dyke),43.0,222.0,71279.0,30.0
+0,CRC221305,Use Surface Water,Irrigation,Pasture,Spray,73.0,30.0,30240.0,14.0
+0,CRC203010,Use Groundwater,Irrigation,Cropping,Spray,82.0,60.0,24192.0,7.0
+0,CRC222504,Use Surface Water,Irrigation,Pasture,Spray,1.2,,,
+0,CRC204706,Use Groundwater,Irrigation,Pasture,Spray,70.0,47.0,3628.8,1.0
+0,CRC200913,Use Groundwater,Irrigation,Dust suppression,Spray,98.0,30.0,2592.0,1.0
+0,CRC062825.2,Use Groundwater,Irrigation,Pasture,Spray,98.0,,,
+1,CRC062825.2,Use Groundwater,Irrigation,Dust suppression,Spray,0.0,,,
+0,CRC203009,Use Groundwater,Irrigation,Cropping,Spray,72.0,45.0,24192.0,7.0
+0,CRC213888,Use Surface Water,Irrigation,Pasture,Trickle,3.5,7.0,252.0,1.0
+0,CRC195102,Use Groundwater,Irrigation,Pasture,Spray,51.0,28.0,2016.0,1.0
+0,CRC204881,Use Groundwater,Irrigation,Pasture,Spray,0.0,7.0,170.0,1.0
+0,CRC222217,Use Groundwater,Irrigation,Pasture,Spray,48.0,30.0,32501.0,17.0
+0,CRC204001,Use Groundwater,Irrigation,Pasture,Spray,147.0,60.0,68645.0,21.0
+0,CRC201923,Use Groundwater,Irrigation,Pasture,Spray,56.6,,,
+0,CRC201922,Use Groundwater,Irrigation,Pasture,Spray,78.0,,,
+0,CRC212293,Use Groundwater,Irrigation,Pasture,Spray,45.0,,,
+0,CRC225108,Use Groundwater,Irrigation,Pasture,Spray,110.0,100.0,22200.0,10.0
+0,CRC214634,Use Groundwater,Irrigation,Pasture,Spray,86.23,58.4,,
+0,CRC201578,Use Groundwater,Irrigation,Pasture,Spray,120.0,60.0,4968.0,14.0
+0,CRC172020,Use Surface Water,Irrigation,Pasture,Spray,470.0,210.0,18144.0,1.0
+0,CRC230550,Use Groundwater,Irrigation,Pasture,Spray,187.0,50.0,,
+0,CRC202597,Use Groundwater,Irrigation,Pasture,Spray,116.0,80.0,,
+0,CRC202079,Use Surface Water,Irrigation,Pasture,Spray,300.0,15.0,1296.0,1.0
+0,CRC202852,Use Surface Water,Irrigation,Pasture,Spray,608.7,40.0,3456.0,1.0
+0,CRC203248,Use Surface Water,Irrigation,Pasture,Spray - Gun,12.0,7.0,580.0,1.0
+0,CRC214786,Use Surface Water,Irrigation,Pasture,Spray,45.0,30.0,22680.0,14.0
+0,CRC215083,Use Surface Water,Irrigation,Pasture,Spray,50.0,30.0,19872.0,8.0
+0,CRC215087,Use Surface Water,Irrigation,Pasture,Spray - Gun,37.0,23.0,9108.0,5.0
+0,CRC174063,Use Surface Water,Irrigation,Pasture,Spray,0.0,22.0,,
+0,CRC202042,Use Surface Water,Irrigation,Pasture,Spray,0.0,15.0,,
+0,CRC230559,Use Surface Water,Irrigation,Pasture,Spray,187.0,50.0,,
+0,CRC201527,Use Groundwater,Irrigation,Pasture,Spray - Gun,110.0,57.0,,
+0,CRC204500,Use Groundwater,Irrigation,Market Garden,Spray,82.0,87.0,428744.0,365.0
+0,CRC203755,Use Surface Water,Irrigation,Pasture,Spray,310.0,190.0,131328.0,8.0
+0,CRC203350,Use Groundwater,Irrigation,Pasture,Spray,230.0,120.0,72576.0,7.0
+0,CRC222298,Use Groundwater,Irrigation,Pasture,Spray,70.0,45.0,3888.0,1.0
+0,CRC220294,Use Surface Water,Irrigation,Pasture,Spray - Gun,140.0,70.0,6048.0,1.0
+0,CRC169648,Use Groundwater,Irrigation,Pasture,Spray,470.0,206.0,17000.0,1.0
+0,CRC181649,Use Surface Water,Irrigation,Pasture,Spray,278.0,206.0,17000.0,1.0
+0,CRC212840,Use Surface Water,Irrigation,Pasture,Spray,38.0,20.0,17280.0,10.0
+0,CRC103251,Use Surface Water,Irrigation,Pasture,Spray,40.0,25.0,21600.0,10.0
+0,CRC102974.1,Use Surface Water,Irrigation,Pasture,Spray,125.0,72.0,55987.0,9.0
+0,CRC200722,Use Groundwater,Irrigation,Pasture,Spray,250.0,37.0,12787.0,5.0
+0,CRC213465,Use Groundwater,Irrigation,Pasture,Spray,5.0,3.7,71.7,1.0
+0,CRC222426,Use Groundwater,Irrigation,Pasture,Spray,7.0,4.0,69.09,1.0
+0,CRC223292,Use Groundwater,Irrigation,Pasture,Spray,4.81,8.0,76.77,1.0
+0,CRC223843,Use Groundwater,Irrigation,Pasture,Spray,5.19,8.0,76.77,1.0
+0,CRC213466,Use Groundwater,Irrigation,Pasture,Spray,5.2,4.3,81.84,1.0
+0,CRC222427,Use Groundwater,Irrigation,Pasture,Spray,7.0,4.0,84.44,1.0
+0,CRC221032,Use Groundwater,Irrigation,Pasture,Spray,59.0,24.0,2074.0,1.0
+0,CRC202075,Use Groundwater,Irrigation,Vineyard ,Trickle,30.0,7.0,,
+0,CRC204675,Use Groundwater,Irrigation,Cropping,Spray,44.7,11.0,786.0,1.0
+0,CRC224705,Use Surface Water,Irrigation,Pasture,Trickle,60.0,36.0,3110.0,1.0
+0,CRC221361,Use Surface Water,Irrigation,Pasture,Spray - Gun,40.0,26.25,32130.0,17.0
+0,CRC202956,Use Groundwater,Irrigation,Cropping,Spray,44.7,13.25,1145.0,1.0
+0,CRC200668,Use Surface Water,Irrigation,Pasture,Spray,10.0,5.5,475.0,1.0
+0,CRC220511,Use Groundwater,Irrigation,Golf Course,Spray,6.0,20.5,611.0,1.0
+0,CRC202185,Use Surface Water,Irrigation,Pasture,Spray,152.8,63.0,462158.0,
+0,CRC231276,Use Groundwater,Irrigation,Nursery,Spray,4.0,,,
+0,CRC204446,Use Groundwater,Irrigation,Pasture,Spray,31.2,21.0,13910.0,8.0
+0,CRC202805,Use Surface Water,Irrigation,Pasture,Spray,140.0,70.0,48400.0,10.0
+0,CRC214582,Use Groundwater,Irrigation,Pasture,Spray,79.0,40.0,,
+0,CRC231246,Use Surface Water,Irrigation,Pasture,Spray,200.0,70.0,6048.0,1.0
+0,CRC214592,Use Surface Water,Irrigation,Pasture,Spray,75.0,41.0,3395.0,1.0
+0,CRC230025,Use Surface Water,Irrigation,Pasture,Spray,33.0,15.0,,
+0,CRC203958,Use Surface Water,Irrigation,Pasture,Spray,120.0,38.0,3284.0,1.0
+0,CRC214241,Use Surface Water,Irrigation,Pasture,Spray,121.0,38.0,41040.0,15.0
+0,CRC212259,Use Surface Water,Irrigation,Pasture,Spray,85.0,,,
+0,CRC212255,Use Surface Water,Irrigation,Pasture,Spray - Gun,50.0,,,
+0,CRC182177,Use Surface Water,Artifical Lake/pond,,,,500.0,,
+1,CRC182177,Use Surface Water,Irrigation,Pasture,Spray,26.2,23.0,12917.0,13.0
+0,CRC214078,Use Groundwater,Irrigation,Pasture,Spray - Gun,19.0,19.75,1368.0,1.0
+0,CRC093932,Use Surface Water,Irrigation,Pasture,Spray,150.0,80.0,6912.0,1.0
+0,CRC204561,Use Groundwater,Irrigation,Pasture,Spray,61.0,33.0,1544.0,1.0
+0,CRC204437,Use Surface Water,Irrigation,Pasture,Spray,88.0,70.0,4424.0,1.0
+0,CRC204833,Use Surface Water,Irrigation,Pasture,Spray,100.0,50.0,,
+0,CRC204836,Use Surface Water,Irrigation,Pasture,Spray,155.0,20.0,,
+0,CRC191036,Use Groundwater,Irrigation,Pasture,Trickle,70.0,21.7,1546.0,1.0
+0,CRC222896,Use Groundwater,Irrigation,Pasture,Spray,9.4,2.17,188.0,1.0
+0,CRC210775,Use Surface Water,Irrigation,Pasture,Spray,70.0,56.0,27417.0,8.0
+0,CRC214410,Use Surface Water,Irrigation,Pasture,Trickle,91.0,30.0,,
+0,CRC214409,Use Surface Water,Irrigation,Pasture,Spray,18.0,35.0,,
+0,CRC214276,Use Surface Water,Irrigation,Pasture,Spray - Gun,110.0,65.0,50544.0,12.0
