@@ -14,8 +14,12 @@ w_df = pd.DataFrame()
 # consents = consents_df["Number"]
 
 #load no source consent numbers
-consents_df = pd.read_csv('./data/No_Source_Consents.csv')
-consents = consents_df["RecordNumber"]
+# consents_df = pd.read_csv('./data/No_Source_Consents.csv')
+# consents = consents_df["RecordNumber"]
+
+#load stock consent numbers
+consents_df = pd.read_csv('./data/OnFarm_Stock_Consents.csv')
+consents = consents_df['RecordNumber']
 
 for i in consents:
     url = 'https://data.ecan.govt.nz:443/data/154/Water/Water%20permit%20use/CSV?ConsentNo='+i
@@ -34,4 +38,5 @@ for i in consents:
 
 #save scraped data
 # w_df.to_csv('./data/ECan_water_consent_data_raw.csv')
-w_df.to_csv('./data/ECan_water_nosource_consent_data_raw.csv')
+# w_df.to_csv('./data/ECan_water_nosource_consent_data_raw.csv')
+w_df.to_csv('./data/ECan_stock_water_consent_data_raw.csv')
