@@ -1,0 +1,102 @@
+,RecordNo,ActivityType,WaterUse,IrrigationOf,PrimaryIrrigationType,IrrigatedAreaHa,MaxRateLs,VolumeM3,ConsecutiveDayPeriod
+0,CRC214253,Use Groundwater,Dairy Shed (Washdown/Cooling),,,,10.0,1232.0,7.0
+0,CRC135819,Use Groundwater,Dairy Shed (Washdown/Cooling),,,,4.0,70.0,1.0
+0,CRC213227,Use Groundwater,Dairy Shed (Washdown/Cooling),,,,4.9,211.0,1.0
+0,CRC140597,Use Groundwater,Dairy Shed (Washdown/Cooling),,,,5.0,105.0,1.0
+0,CRC150204,Use Groundwater,Dairy Shed (Washdown/Cooling),,,,5.0,70.0,1.0
+0,CRC140770,Use Groundwater,Dairy Shed (Washdown/Cooling),,,,5.0,97.5,1.0
+0,CRC158107,Use Groundwater,Dairy Shed (Washdown/Cooling),,,,12.0,1841.0,7.0
+0,CRC140381,Use Groundwater,Dairy Shed (Washdown/Cooling),,,,5.0,100.0,1.0
+0,CRC132815,Use Groundwater,Dairy Shed (Washdown/Cooling),,,,5.0,159.0,1.0
+0,CRC221487,Use Groundwater,Dairy Shed (Washdown/Cooling),,,,5.0,867.0,7.0
+0,CRC163590,Use Groundwater,Dairy Shed (Washdown/Cooling),,,,5.0,53.0,1.0
+0,CRC142043,Use Groundwater,Dairy Shed (Washdown/Cooling),,,,5.0,38.7,1.0
+0,CRC181797,Use Groundwater,Irrigation,Pasture,Spray,440.0,,,
+1,CRC181797,Use Groundwater,Dairy Shed (Washdown/Cooling),,,,,,
+2,CRC181797,Use Groundwater,Domestic Use,,,,,,
+0,CRC181846,Use Groundwater,Irrigation,Pasture,Spray,94.0,37.0,563332.0,365.0
+1,CRC181846,Use Groundwater,Dairy Shed (Washdown/Cooling),,,,4.9,22590.0,365.0
+0,CRC221254,Use Groundwater,Dairy Shed (Washdown/Cooling),,,,4.0,174.3,1.0
+0,CRC194341,Use Groundwater,Dairy Shed (Washdown/Cooling),,,,11.0,170.0,1.0
+0,CRC168363,Use Groundwater,Dairy Shed (Washdown/Cooling),,,,5.0,100.0,1.0
+0,CRC224744,Use Groundwater,Dairy Shed (Washdown/Cooling),,,,2.0,52.5,1.0
+0,CRC122180,Use Groundwater,Dairy Shed (Washdown/Cooling),,,,2.0,52.5,1.0
+0,CRC143122,Use Groundwater,Dairy Shed (Washdown/Cooling),,,,,,
+0,CRC230825,Use Surface Water,Dairy Shed (Washdown/Cooling),,,,,,
+1,CRC230825,Use Surface Water,Irrigation,Pasture,Spray,395.0,,,
+0,CRC102245,Use Groundwater,Dairy Shed (Washdown/Cooling),,,,3.0,78.0,1.0
+0,CRC223475,Use Groundwater,Dairy Shed (Washdown/Cooling),,,,4.9,290.0,1.0
+0,CRC213205,Use Groundwater,Dairy Shed (Washdown/Cooling),,,,5.0,,62940.0
+1,CRC213205,Use Groundwater,Irrigation,Pasture,Spray,103.0,30.0,,100000.0
+0,CRC169963,Use Groundwater,Dairy Shed (Washdown/Cooling),,,,6.0,63.75,1.0
+0,CRC203111,Use Groundwater,Irrigation,Pasture,Spray,140.0,,,
+1,CRC203111,Use Groundwater,Dairy Shed (Washdown/Cooling),,,,,,
+2,CRC203111,Use Groundwater,Stockwater,,,,,,
+0,CRC202417,Use Groundwater,Dairy Shed (Washdown/Cooling),,,,,60000.0,365.0
+0,CRC180805,Use Groundwater,Dairy Shed (Washdown/Cooling),,,,4.9,,
+0,CRC200407,Use Groundwater,Irrigation,Pasture,Spray,123.0,,615329.0,365.0
+1,CRC200407,Use Groundwater,Dairy Shed (Washdown/Cooling),,,,,9975.0,365.0
+0,CRC212949,Use Groundwater,Dairy Shed (Washdown/Cooling),,,,5.0,1008.0,7.0
+0,CRC192985,Use Groundwater,Dairy Shed (Washdown/Cooling),,,,6.0,100.0,1.0
+0,CRC214108,Use Groundwater,Dairy Shed (Washdown/Cooling),,,,10.0,81976.8,365.0
+0,CRC214206,Use Groundwater,Dairy Shed (Washdown/Cooling),,,,6.1,1092.0,7.0
+0,CRC224688,Use Groundwater,Irrigation,Pasture,Spray,227.5,124.0,,
+0,CRC143121,Use Groundwater,Dairy Shed (Washdown/Cooling),,,,4.9,105.0,1.0
+0,CRC180819,Use Groundwater,Dairy Shed (Washdown/Cooling),,,,4.9,,
+0,CRC231134,Use Groundwater,Dairy Shed (Washdown/Cooling),,,,20.0,41460.0,365.0
+0,CRC157819,Use Groundwater,Dairy Shed (Washdown/Cooling),,,,12.6,544.0,1.0
+0,CRC210966,Use Groundwater,Dairy Shed (Washdown/Cooling),,,,10.0,170.0,1.0
+0,CRC184473,Use Groundwater,Dairy Shed (Washdown/Cooling),,,,10.0,360.0,1.0
+0,CRC151696,Use Groundwater,Dairy Shed (Washdown/Cooling),,,,,,
+0,CRC185900,Use Groundwater,Dairy Shed (Washdown/Cooling),,,,4.0,161.0,1.0
+0,CRC220357,Use Groundwater,Dairy Shed (Washdown/Cooling),,,,5.1,,
+0,CRC185316,Use Surface Water,Stockwater,,,,,,
+1,CRC185316,Use Surface Water,Dairy Shed (Washdown/Cooling),,,,,,
+0,CRC202874,Use Groundwater,Dairy Shed (Washdown/Cooling),,,,5.0,164.0,1.0
+0,CRC181329,Use Groundwater,Intensive (Shed) Farming - Dairy,,,,240.0,108864.0,7.0
+0,CRC181325,Use Groundwater,Intensive (Shed) Farming - Dairy,,,,245.0,21168.0,1.0
+0,CRC183635,Use Groundwater,Intensive (Shed) Farming - Dairy,,,,74.0,,
+0,CRC230210,Use Groundwater,Irrigation,Pasture,Spray,252.0,90.0,,
+0,CRC190942,Use Groundwater,Intensive (Shed) Farming - Dairy,,,,66.0,,
+0,CRC190175,Use Groundwater,Intensive (Shed) Farming - Dairy,,,,2.94,254.0,150.0
+0,CRC185505,Use Groundwater,Intensive (Shed) Farming - Dairy,,,,15.8,1365.0,1.0
+0,CRC190632,Use Groundwater,Intensive (Shed) Farming - Dairy,,,,160.0,13824.0,1.0
+0,CRC176108,Use Groundwater,Intensive (Shed) Farming - Dairy,,,,26.0,2246.0,1.0
+0,CRC002016,Use Groundwater,Scheme - Stockwater,,,,10.0,500.0,1.0
+0,CRC011692,Use Groundwater,Dairy Shed (Washdown/Cooling),,,,0.5,21.6,1.0
+0,CRC120577,Use Groundwater,Dairy Shed (Washdown/Cooling),,,,1.8,40.0,1.0
+0,CRC120890,Use Groundwater,Dairy Shed (Washdown/Cooling),,,,2.4,52.5,1.0
+0,CRC133296,Use Groundwater,Dairy Shed (Washdown/Cooling),,,,2.0,35.0,1.0
+0,CRC135665,Use Groundwater,Dairy Shed (Washdown/Cooling),,,,4.5,87.0,1.0
+0,CRC140055,Use Groundwater,Dairy Shed (Washdown/Cooling),,,,10.0,184.4,1.0
+0,CRC140934,Use Groundwater,Dairy Shed (Washdown/Cooling),,,,5.0,97.5,1.0
+0,CRC141296,Use Groundwater,Dairy Shed (Washdown/Cooling),,,,1.8,45.4,1.0
+0,CRC150058,Use Groundwater,Dairy Shed (Washdown/Cooling),,,,4.9,49.0,1.0
+0,CRC150219,Use Groundwater,Dairy Shed (Washdown/Cooling),,,,2.0,101.0,1.0
+0,CRC154725,Use Groundwater,Dairy Shed (Washdown/Cooling),,,,,,
+0,CRC156014,Use Groundwater,Dairy Shed (Washdown/Cooling),,,,4.6,93.0,1.0
+0,CRC157107,Use Groundwater,Dairy Shed (Washdown/Cooling),,,,3.5,302.0,1.0
+0,CRC157830,Use Groundwater,Dairy Shed (Washdown/Cooling),,,,,,
+0,CRC163200,Use Groundwater,Dairy Shed (Washdown/Cooling),,,,4.9,212.25,1.0
+0,CRC176517,Use Groundwater,Dairy Shed (Washdown/Cooling),,,,,,
+1,CRC176517,Use Groundwater,Stockwater,,,,,,
+0,CRC184273,Use Groundwater,Dairy Shed (Washdown/Cooling),,,,4.9,172.0,1.0
+0,CRC185544,Use Groundwater,Dairy Shed (Washdown/Cooling),,,,4.0,28512.0,150.0
+0,CRC185862,Use Groundwater,Dairy Shed (Washdown/Cooling),,,,,,
+0,CRC190093,Use Groundwater,Dairy Shed (Washdown/Cooling),,,,4.9,423.0,1.0
+0,CRC191064,Use Groundwater,Dairy Shed (Washdown/Cooling),,,,2.4,213.0,1.0
+0,CRC191987,Use Groundwater,Dairy Shed (Washdown/Cooling),,,,4.3,324.0,1.0
+0,CRC192068,Use Groundwater,Dairy Shed (Washdown/Cooling),,,,,,
+1,CRC192068,Use Groundwater,Stockwater,,,,,,
+0,CRC971178,Use Groundwater,Dairy Shed (Washdown/Cooling),,,,1.0,86.0,1.0
+0,CRC173644,Use Surface Water,Scheme - Stockwater,,,,1526.0,,
+0,CRC970696.2,Use Surface Water,Dairy Shed (Washdown/Cooling),,,,3.0,54.0,1.0
+0,CRC133965,Use Surface Water,Scheme - Stockwater,,,,,,
+1,CRC133965,Use Surface Water,Power Generation,,,,,,
+2,CRC133965,Use Surface Water,Water Storage - To,,,,,,
+3,CRC133965,Use Surface Water,Irrigation,Lifestyle,Spray,0.0,,,
+0,CRC169499,Use Surface Water,Scheme - Stockwater,,,,1165.0,,
+0,CRC155937,Use Surface Water,Scheme - Stockwater,,,,3920.0,,
+1,CRC155937,Use Surface Water,Scheme - Irrigation,,,,1720.0,,
+0,CRC981876.1,Use Surface Water,Scheme - Stockwater,,,,15.0,6500.0,7.0
+0,CRC192050,Use Surface Water,Scheme - Stockwater,,,,5.25,454.0,1.0
